@@ -1,3 +1,3 @@
 defaults:
-  - datasets@train: TOFU_QA_full
+  - datasets@train: PopQA_full #TOFU_QA_full
   - datasets@eval: null

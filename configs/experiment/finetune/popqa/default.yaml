@@ -1,0 +1,43 @@
+# @package _global_
+
+defaults:
+  - override /model: Llama-3.1-8B-Instruct
+  - override /trainer: finetune
+  - override /data/datasets@data.train: PopQA_full #_full
+  - override /eval: popqa
+
+mode: finetune
+trainer:
+  args:
+    # learning_rate: 5e-6 
+    num_train_epochs: 1
+    warmup_epochs: 0.2
+    weight_decay: 0.01
+    max_grad_norm: 1.0
+
+peft:
+  lora:
+    enabled: true
+    r: 8
+    alpha: 8
+    dropout: 0.05
+    target_modules:
+      - q_proj
+      - k_proj
+      - v_proj
+      - o_proj
+
+
+forget_split: rare_forget10
+# holdout_split: holdout10
+retain_logs_path: null
+
+eval:
+  popqa:
+    forget_split: ${forget_split}
+    # holdout_split: ${holdout_split}
+    retain_logs_path: ${retain_logs_path}
+    overwrite: true
+
+
+task_name: popqa_Llama-3.1-8B-Instruct_full

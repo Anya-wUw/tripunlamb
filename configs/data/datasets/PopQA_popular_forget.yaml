@@ -1,0 +1,24 @@
+PopQA_popular_forget:
+  handler: MultiAnswerQADataset
+  args:
+    hf_args:
+      path: "AnniBorri/PopQA_forget_splits"
+      split: "popular_forget10"
+    model_name: "Llama-3.2-1B-Instruct"
+    question_key: "question"
+    answers_key: "possible_answers"
+    max_length: 2048
+    gold_set: true
+
+
+# PopQA_popular_forget:
+#   handler: MultiAnswerQADataset
+#   args:
+#     hf_args:
+#       path: "AnniBorri/PopQA_forget_splits"
+#       split: ${forget_split}          # взять из верхнего уровня
+#     model_name: ${model}             # тоже из верхнего уровня
+#     question_key: ${question_key}    # из eval.yaml
+#     answers_key: ${answers_key}      # можно задать в eval.yaml или experiment-yaml
+#     max_length: ${max_length}        # тоже из конфига
+#     gold_set: ${gold_set}

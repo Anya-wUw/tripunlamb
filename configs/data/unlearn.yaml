@@ -1,6 +1,6 @@
 defaults:
-  - datasets@forget: TOFU_QA_forget
-  - datasets@retain: TOFU_QA_retain
+  - datasets@forget: PopQA_rare_forget #TOFU_QA_forget
+  - datasets@retain: PopQA_rare_retain
   - datasets@eval: null
 
 anchor: forget

@@ -1,5 +1,6 @@
 # import torch
 from torch.utils.data import Dataset
+import random
 from data.utils import (
     load_hf_dataset,
     add_dataset_index,
@@ -90,3 +91,78 @@ class PretrainingDataset(Dataset):
         return preprocess_pretraining_instance(
             self.tokenizer, "", self.chunks[idx], self.max_length
         )
+
+
+
+
+
+# PopQA Dataset
+class MultiAnswerQADataset(Dataset):
+    def __init__(
+        self,
+        hf_args,
+        template_args,
+        tokenizer,
+        question_key="question",
+        answers_key="possible_answers",
+        model_name="Llama-3.2-1B-Instruct",
+        max_length=2048,
+        predict_with_generate=False,
+        insert_space=False,
+        gold_set=False,
+    ):
+        super(MultiAnswerQADataset, self).__init__()
+        self.tokenizer = tokenizer
+        self.max_length = max_length
+        raw_data = load_hf_dataset(**hf_args)
+
+        # Filter
+        if gold_set:
+            if model_name == "Llama-3.2-1B-Instruct":
+                # by knowlage Llama-3.2-1B
+                raw_data = raw_data.filter(
+                    lambda x: not x["know_llama3_1b"] and not x["emb_llama3_1b"]
+                )
+            else:
+                raise NotImplementedError(
+                    f"No filter_columns for gold_set for {model_name} model."
+                )
+
+        self.data = add_dataset_index(raw_data)
+
+        self.question_key = question_key
+        self.answers_key = answers_key
+        self.predict_with_generate = predict_with_generate
+        self.insert_space = insert_space
+
+    def __len__(self):
+        return len(self.data)
+
+    def _process_sample(self, question, answer, index=-1):
+        tokenized_data = preprocess_pretraining_instance(
+            self.tokenizer,
+            question,
+            answer,
+            self.max_length,
+            self.predict_with_generate,
+            self.insert_space,
+        )
+        item_dct = {
+            "input_ids": tokenized_data["input_ids"],
+            "labels": tokenized_data["labels"],
+            "attention_mask": tokenized_data["attention_mask"],
+        }
+        if index != -1:
+            item_dct["index"] = index
+        return item_dct
+
+    def __getitem__(self, idx):
+        question = self.data[idx].get(self.question_key, "")
+        answers = self.data[idx].get(self.answers_key, [])
+        if not answers:
+            answers = [""]  # empty
+
+        selected_answer = random.choice(answers)
+        index = self.data[idx]["index"]
+
+        return self._process_sample(question, selected_answer, index)

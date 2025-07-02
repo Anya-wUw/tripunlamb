@@ -1,0 +1,152 @@
+# @package _global_
+
+defaults:
+  - override /model: Llama-3.1-8B-Instruct #Llama-3.2-3B-Instruct
+  - override /trainer: GradAscent
+  - override /data: unlearn
+  - override /data/datasets@data.forget: PopQA_popular_forget #PopQA_rare_forget
+  - override /data/datasets@data.retain: PopQA_popular_retain #PopQA_rare_retain
+  - override /eval: popqa
+
+model:
+  model_args:
+    pretrained_model_name_or_path: open-unlearning/tofu_Llama-3.2-1B-Instruct_full #TODO: load popQA pretrain to  HF
+
+forget_split: popular_forget10 #rare_forget10
+retain_split: popular_retain90 #rare_retain95
+# holdout_split: holdout10
+retain_logs_path: null
+question_key: "question"
+
+eval:
+  popqa:
+    forget_split: ${forget_split}
+    retain_split: ${retain_split}
+    retain_logs_path: ${retain_logs_path}
+    overwrite: true
+    question_key: ${question_key}
+    
+data:
+  anchor: forget
+  forget:
+    # PopQA_rare_forget: 
+    PopQA_popular_forget:
+      args:
+        hf_args:
+          split: ${forget_split}
+  retain:
+    # PopQA_rare_retain:
+    PopQA_popular_retain:
+      args:
+        hf_args:
+          split: ${retain_split}
+
+trainer:
+  args:
+    warmup_epochs: 1.0 # custom parameter
+    learning_rate: 1e-5
+    weight_decay: 0.01
+    num_train_epochs: 1 #3 #10
+    # save_strategy: steps
+    # save_steps: 0.5
+
+peft:
+  lora:
+    enabled: true
+    r: 32                       
+    alpha: 32                    
+    dropout: 0.05                
+    target_modules:               
+      - q_proj
+      - v_proj    
+
+task_name: ???
+
+
+
+
+
+# # configs/experiment/unlearn/popqa/default.yaml
+# # @package _global_
+
+# defaults:
+#   - override /model:    Llama-3.2-1B-Instruct
+#   - override /trainer:  GradAscent
+#   - override /data:     unlearn
+#   - override /data/datasets@data.forget: PopQA_popular_forget
+#   - override /data/datasets@data.retain: PopQA_popular_retain
+#   - override /eval:     popqa
+
+# forget_split:   popular_forget10
+# retain_split:   popular_retain90
+# retain_logs_path: null
+
+# model:
+#   model_args:
+#     pretrained_model_name_or_path: open-unlearning/tofu_Llama-3.2-1B-Instruct_full
+#     # device_map, precision и т.п. можно добавить здесь, если нужно
+
+# question_key:   question
+# answers_key:    possible_answers
+# max_length:     2048
+# gold_set:       true
+
+# # Имя задачи (будет подставляться из CLI)
+# task_name:      null
+
+# # Параметры unlearning
+# trainer:
+#   args:
+#     warmup_epochs:      1.0
+#     learning_rate:      1e-5
+#     weight_decay:       0.01
+#     num_train_epochs:   1 #3
+#     gradient_checkpointing: true
+#     ddp_find_unused_parameters: true
+#     per_device_train_batch_size: 4
+#     gradient_accumulation_steps: 4
+
+# peft:
+#   lora:
+#     enabled: true
+#     r:       32
+#     alpha:   32
+#     dropout: 0.05
+#     target_modules:
+#       - q_proj
+#       - v_proj
+
+# #  пробросить в eval
+# eval:
+#   popqa:
+#     overwrite: true
+#     forget_split:     ${forget_split}
+#     retain_split:     ${retain_split}
+#     retain_logs_path: ${retain_logs_path}
+#     question_key:     ${question_key}
+
+# # Теперь описания подгружаемых датасетов возьмут необходимые поля:
+# data:
+#   anchor: forget
+#   forget:
+#     PopQA_popular_forget:
+#       args:
+#         hf_args:
+#           path: "AnniBorri/PopQA_forget_splits"
+#           split: ${forget_split}
+#         model_name:   ${model.model_args.pretrained_model_name_or_path}
+#         question_key: ${question_key}
+#         answers_key:  ${answers_key}
+#         max_length:   ${max_length}
+#         gold_set:     ${gold_set}
+#   retain:
+#     PopQA_popular_retain:
+#       args:
+#         hf_args:
+#           path: "AnniBorri/PopQA_forget_splits"
+#           split: ${retain_split}
+#         model_name:   ${model.model_args.pretrained_model_name_or_path}
+#         question_key: ${question_key}
+#         answers_key:  ${answers_key}
+#         max_length:   ${max_length}
+#         gold_set:     ${gold_set}

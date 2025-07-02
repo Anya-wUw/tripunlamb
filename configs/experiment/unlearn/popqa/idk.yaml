@@ -1,12 +1,12 @@
 # @package _global_
 
 defaults:
-  - override /model: Llama-3.2-1B-Instruct
-  - override /trainer: GradAscent
+  - override /model: Llama-3.1-8B-Instruct #Llama-3.2-3B-Instruct
+  - override /trainer: DPO
   - override /data: unlearn
-  - override /data/datasets@data.forget: TOFU_QA_forget
-  - override /data/datasets@data.retain: TOFU_QA_retain
-  - override /eval: tofu
+  - override /data/datasets@data.forget: PopQA_forget_idk
+  - override /data/datasets@data.retain: PopQA_popular_retain
+  - override /eval: popqa
 
 model:
   model_args:
@@ -14,27 +14,23 @@ model:
 
 forget_split: forget10
 retain_split: retain90
-holdout_split: holdout10
 retain_logs_path: null
-question_key: "question"
 
 eval:
-  tofu:
+  popqa:
     forget_split: ${forget_split}
-    holdout_split: ${holdout_split}
     retain_logs_path: ${retain_logs_path}
     overwrite: true
-    question_key: ${question_key}
     
 data:
   anchor: forget
   forget:
-    TOFU_QA_forget: 
+    PopQA_forget_idk: 
       args:
         hf_args:
           name: ${forget_split}
   retain:
-    TOFU_QA_retain:
+    PopQA_popular_retain:
       args:
         hf_args:
           name: ${retain_split}
@@ -44,18 +40,8 @@ trainer:
     warmup_epochs: 1.0 # custom parameter
     learning_rate: 1e-5
     weight_decay: 0.01
-    num_train_epochs: 2 #10
+    num_train_epochs: 10
     # save_strategy: steps
     # save_steps: 0.5
-
-peft:
-  lora:
-    enabled: true
-    r: 8                          
-    alpha: 32                    
-    dropout: 0.05                
-    target_modules:               
-      - q_proj
-      - v_proj    
 
 task_name: ???
