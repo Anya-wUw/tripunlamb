@@ -26,6 +26,7 @@ def _register_trainer(trainer_class):
 def load_trainer_args(trainer_args: DictConfig, dataset):
     trainer_args = dict(trainer_args)
     warmup_epochs = trainer_args.pop("warmup_epochs", None)
+    scheduler_type = trainer_args.pop("lr_scheduler_type", None)
     if warmup_epochs:
         batch_size = trainer_args["per_device_train_batch_size"]
         grad_accum_steps = trainer_args["gradient_accumulation_steps"]

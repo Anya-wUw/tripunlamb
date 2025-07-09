@@ -82,7 +82,7 @@ set -euo pipefail
 
 export MASTER_PORT=$(python -c "import socket; s=socket.socket(); s.bind(('', 0)); print(s.getsockname()[1]); s.close()")
 
-models=( "Llama-3.1-8B-Instruct" )
+models=( "Llama-3.1-8B-Instruct" ) #"Llama-3.1-8B-Instruct"
 trainers_experiments=(
     "GradAscent unlearn/popqa/default.yaml"
     "GradDiff  unlearn/popqa/default.yaml"
@@ -90,8 +90,8 @@ trainers_experiments=(
     "RMU       unlearn/popqa/default.yaml"
 )
 splits=(
-    "rare_forget10 rare_retain90 rare_retain90"
-    "popular_forget10 popular_retain90 popular_retain90"
+    "rare_forget10 retain_intersection90 retain_intersection90"
+    "popular_forget10 retain_intersection90 retain_intersection90"
 )
 
 for split in "${splits[@]}"; do
@@ -100,17 +100,17 @@ for split in "${splits[@]}"; do
     for te in "${trainers_experiments[@]}"; do
       read -r trainer experiment <<< "$te"
       task_name=popqa_${model}_${forget_split}_${trainer}
-      model_path=/mnt/extremessd10tb/borisiuk/open-unlearning/saves/finetune/Llama-3.1-8B-Instruct_finetune_SA
+      model_path=/mnt/extremessd10tb/borisiuk/open-unlearning/saves/finetune/llama3.1-8b_full_2ep_ft_popqa
 
       echo "=== TRAIN  $task_name ==="
 
-      if [[ "$task_name" == "popqa_Llama-3.1-8B-Instruct_rare_forget10_GradAscent" || \
-      "$task_name" == "popqa_Llama-3.1-8B-Instruct_rare_forget10_GradDiff" ]]; then
-        echo ">>> Skipping already computed $task_name"
-        continue
-      fi
+      # if [[ "$task_name" == "popqa_Llama-3.1-8B-Instruct_rare_forget10_GradAscent" || \
+      # "$task_name" == "popqa_Llama-3.1-8B-Instruct_rare_forget10_GradDiff" ]]; then
+      #   echo ">>> Skipping already computed $task_name"
+      #   continue
+      # fi
 
-      if ! CUDA_VISIBLE_DEVICES=1 accelerate launch --num_processes=1 --mixed_precision=bf16 \
+      if ! CUDA_VISIBLE_DEVICES=0 accelerate launch --num_processes=1 --mixed_precision=bf16 \
           src/train.py --config-name=unlearn.yaml \
             experiment=${experiment} trainer=${trainer} task_name=${task_name} \
             model=${model} forget_split=${forget_split} retain_split=${retain_split} \
@@ -126,9 +126,9 @@ for split in "${splits[@]}"; do
       fi
 
       echo "=== EVAL   $task_name ==="
-      CUDA_VISIBLE_DEVICES=1 python src/eval.py \
+      CUDA_VISIBLE_DEVICES=0 python src/eval.py \
         experiment=eval/popqa/default.yaml task_name=${task_name} \
-        forget_split=${forget_split} retain_split=${retain_split} \
+        forget_split=${forget_split}\
         model=${model} \
         model.model_args.pretrained_model_name_or_path=saves/unlearn/${task_name} \
         paths.output_dir=saves/unlearn/${task_name}/evals \

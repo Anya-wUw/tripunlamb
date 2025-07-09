@@ -9,23 +9,29 @@ defaults:
 mode: finetune
 trainer:
   args:
-    # learning_rate: 5e-6 
-    num_train_epochs: 1
+    learning_rate: 2e-4
+    num_train_epochs: 3
     warmup_epochs: 0.2
     weight_decay: 0.01
     max_grad_norm: 1.0
+    # embedding_learning_rate: 0.00003
+    # lr_scheduler_type: cosine
+    # warmup_steps: 16
 
 peft:
   lora:
     enabled: true
-    r: 8
-    alpha: 8
-    dropout: 0.05
+    r: 32 #32
+    alpha: 16 #64
+    dropout: 0.0
     target_modules:
       - q_proj
       - k_proj
       - v_proj
       - o_proj
+      # - gate_proj
+      # - up_proj
+      # - down_proj
 
 
 forget_split: rare_forget10
