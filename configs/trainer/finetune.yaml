@@ -9,7 +9,7 @@ args:
   logging_steps: 1
   output_dir: ${paths.output_dir}
   logging_dir: ${trainer.args.output_dir}/logs
-  report_to: wandb #tensorboard
+  report_to: tensorboard #tensorboard wandb
   ddp_find_unused_parameters: None
   gradient_checkpointing: False
   optim: paged_adamw_8bit #paged_adamw_32bit

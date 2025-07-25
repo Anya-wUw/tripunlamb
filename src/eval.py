@@ -20,9 +20,6 @@ def main(cfg: DictConfig):
     assert model_cfg is not None, "Invalid model yaml passed in train config."
     model, tokenizer = get_model(model_cfg)
 
-    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # model.to(device)
-
     eval_cfgs = cfg.eval
     evaluators = get_evaluators(eval_cfgs)
     for evaluator_name, evaluator in evaluators.items():

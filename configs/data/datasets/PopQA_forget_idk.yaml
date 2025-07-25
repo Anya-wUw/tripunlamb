@@ -4,7 +4,7 @@ PopQA_forget_idk:
     hf_args:
       name: "rare_forget10"
       split: "train"
-      path: "AnniBorri/PopQA_forget_splits"
+      path: "SwetieePawsss/PopQA_forget_splits"
     question_key: "question"
     answer_key: "possible_answers"
     max_length: 512

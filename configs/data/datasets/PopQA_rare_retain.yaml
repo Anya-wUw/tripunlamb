@@ -2,8 +2,8 @@ PopQA_rare_retain:
   handler: MultiAnswerQADataset
   args:
     hf_args:
-      path: "AnniBorri/PopQA_forget_splits"
-      split: "rare_retain90"
+      path: "SwetieePawsss/PopQA_forget_splits"
+      split: "retain_intersection80"
     model_name: "Llama-3.2-1B-Instruct"
     question_key: "question"
     answers_key: "possible_answers"

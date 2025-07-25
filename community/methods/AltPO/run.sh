@@ -15,9 +15,9 @@ trainers_experiments=(
     "DPO unlearn/tofu/default.yaml"
 )
 forget_retain_splits=(
-    "forget10 retain90"
-    "forget05 retain95"
-    "forget01 retain99"
+    "forget10 retain80"
+    "forget05 retain90"
+    "forget15 retain70"
 )
 
 per_device_train_batch_size=8
