@@ -1,0 +1,11 @@
+tripunlamb_popular_retain:
+  handler: TripUnlambQADataset #MultiAnswerQADataset
+  args:
+    hf_args:
+      path: "SwetieePawsss/TripUNLamb"
+      split: fast_retain #"retain_80"
+    model_name: "Llama-3.2-1B-Instruct"
+    question_key: "question"
+    answers_key: "answer"
+    max_length: 256
+    gold_set: false

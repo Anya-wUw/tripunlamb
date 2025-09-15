@@ -2,7 +2,7 @@ PopQA_popular_retain:
   handler: MultiAnswerQADataset
   args:
     hf_args:
-      path: "SwetieePawsss/PopQA_forget_splits"
+      path: "SwetieePawsss/UNLamb"
       split: "retain_intersection80"
     model_name: "Llama-3.2-1B-Instruct"
     question_key: "question"

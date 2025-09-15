@@ -1,0 +1,9 @@
+tripunlamb_retain_eval:
+  handler: QADataset
+  args:
+    hf_args:
+      split: fast_retain #"retain_80"
+      path: "SwetieePawsss/TripUNLamb"
+    question_key: "question"
+    answer_key: "answer"
+    max_length: 512

@@ -14,7 +14,7 @@ datasets: # override as needed
   PopQA_rare_forget:
     args:
       hf_args:
-        path: "SwetieePawsss/PopQA_forget_splits"
+        path: "SwetieePawsss/UNLamb"
         split: ${eval.popqa.forget_split} #_perturbed
       question_key: ${eval.popqa.question_key}
       predict_with_generate: True

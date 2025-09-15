@@ -75,6 +75,7 @@ class LMEvalEvaluator(Evaluator):
 
     def evaluate(self, model, output_dir=None, overwrite=None, **kwargs):
         # set flag to overwrite metrics
+        print("DEBUG HERE\n\n", self)
         overwrite = self.eval_cfg.overwrite if overwrite is None else overwrite
 
         # Prepare model for evaluation
@@ -90,6 +91,7 @@ class LMEvalEvaluator(Evaluator):
         logs = self.load_logs_from_file(logs_file_path) if not overwrite else {}
         summary = self.load_logs_from_file(summary_file_path) if not overwrite else {}
 
+        # print("DEBUG_1 HERE\n\n", self)
         logger.info(f"***** Running {self.name} evaluation suite *****")
         logger.info(f"Fine-grained evaluations will be saved to: {logs_file_path}")
         logger.info(

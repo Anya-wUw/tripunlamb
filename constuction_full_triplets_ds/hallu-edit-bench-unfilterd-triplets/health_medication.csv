@@ -1,0 +1,1509 @@
+subjectLabel,relation,objectLabel
+heparin,medical condition treated,pulmonary embolism
+heparin,significant drug interaction,perindopril
+heparin,significant drug interaction,clopidogrel
+heparin,significant drug interaction,tenoxicam
+heparin,significant drug interaction,prostacyclin
+heparin,significant drug interaction,ibuprofen
+heparin,significant drug interaction,piroxicam
+heparin,significant drug interaction,Streptokinase
+heparin,significant drug interaction,Diclofenac
+heparin,significant drug interaction,tirofiban
+heparin,significant drug interaction,prasugrel
+heparin,significant drug interaction,abciximab
+heparin,medical condition treated,pulmonary embolism
+heparin,significant drug interaction,indomethacin
+heparin,significant drug interaction,(RS)-ketoprofen
+heparin,significant drug interaction,parecoxib
+heparin,significant drug interaction,aspirin
+heparin,significant drug interaction,meloxicam
+heparin,significant drug interaction,celecoxib
+heparin,significant drug interaction,apixaban
+conjugated estrogens,has part(s),sodium estrone sulfate
+heparin,significant drug interaction,dalteparin
+heparin,significant drug interaction,sulindac
+heparin,significant drug interaction,aceclofenac
+heparin,significant drug interaction,ticagrelor
+heparin,has part(s),hydrogen
+heparin,significant drug interaction,nabumetone
+heparin,route of administration,intravenous injection
+heparin,significant drug interaction,rivaroxaban
+conjugated estrogens,has part(s),sodium equilin sulfate
+heparin,route of administration,subcutaneous injection
+heparin,has part(s),oxygen
+heparin,has part(s),nitrogen
+heparin,significant drug interaction,(+-)-flurbiprofen
+heparin,has part(s),sulfur
+heparin,significant drug interaction,(RS)-etodolac
+heparin,significant drug interaction,tenecteplase
+heparin,significant drug interaction,cangrelor
+heparin,significant drug interaction,naproxen
+heparin,significant drug interaction,eptifibatide
+heparin,significant drug interaction,alteplase
+heparin,significant drug interaction,urokinase
+heparin,significant drug interaction,iloprost
+heparin,significant drug interaction,rac-warfarin
+heparin,has part(s),carbon
+tinzaparin,significant drug interaction,meloxicam
+tinzaparin,significant drug interaction,(RS)-ketoprofen
+tinzaparin,significant drug interaction,abciximab
+heparin,significant drug interaction,(RS)-fenoprofen
+tinzaparin,significant drug interaction,parecoxib
+tinzaparin,significant drug interaction,clopidogrel
+tinzaparin,medical condition treated,pulmonary embolism
+tinzaparin,significant drug interaction,acenocoumarol
+tinzaparin,significant drug interaction,ibuprofen
+tinzaparin,significant drug interaction,piroxicam
+tinzaparin,significant drug interaction,prasugrel
+tinzaparin,significant drug interaction,tirofiban
+tinzaparin,significant drug interaction,tenoxicam
+tinzaparin,medical condition treated,pulmonary embolism
+tinzaparin,significant drug interaction,celecoxib
+tinzaparin,subject has role,protease inhibitor
+heparin,subclass of,anticoagulant
+tinzaparin,significant drug interaction,Diclofenac
+tinzaparin,significant drug interaction,indomethacin
+tinzaparin,significant drug interaction,Streptokinase
+tinzaparin,physically interacts with,Serpin family C member 1
+tinzaparin,significant drug interaction,rivaroxaban
+tinzaparin,significant drug interaction,naproxen
+tinzaparin,significant drug interaction,ticagrelor
+tinzaparin,significant drug interaction,(+-)-flurbiprofen
+tinzaparin,significant drug interaction,nabumetone
+tinzaparin,significant drug interaction,apixaban
+tinzaparin,significant drug interaction,dalteparin
+tinzaparin,significant drug interaction,(RS)-fenoprofen
+tinzaparin,significant drug interaction,aceclofenac
+tinzaparin,significant drug interaction,eptifibatide
+tinzaparin,significant drug interaction,tenecteplase
+tinzaparin,significant drug interaction,phenindione
+tinzaparin,part of,tinzaparin sodium
+tinzaparin,significant drug interaction,(RS)-etodolac
+tinzaparin,significant drug interaction,urokinase
+tinzaparin,significant drug interaction,rac-warfarin
+tinzaparin,significant drug interaction,alteplase
+tinzaparin,subject has role,fibrinolytic agents
+tinzaparin,significant drug interaction,iloprost
+tinzaparin,significant drug interaction,sulindac
+progestogen,facet of,women's health
+antibiotic,different from,bactericide
+antibiotic,named after,life
+progestogen,facet of,women's health
+ledipasvir/sofosbuvir,medical condition treated,hepatitis
+antibiotic,named after,life
+progestogen,subclass of,sex steroid
+emtricitabine/rilpivirine/tenofovir,medical condition treated,HIV/AIDS
+emtricitabine/rilpivirine/tenofovir,medical condition treated,HIV/AIDS
+antibiotic,has characteristic,antibiotic resistance
+ledipasvir/sofosbuvir,has part(s),sofosbuvir
+antibiotic,subclass of,medication
+antibiotic,subclass of,anti-infective agent
+stem bromelain,found in taxon,Ananas comosus
+antibiotic,subclass of,bactericide
+emtricitabine/rilpivirine/tenofovir,has part(s),emtricitabine
+ledipasvir/sofosbuvir,has part(s),ledipasvir
+heparin,instance of,essential medicine
+tinzaparin,instance of,medication
+conjugated estrogens,instance of,mixture
+stem bromelain,part of,industrial bromelain
+stem bromelain,part of,bromelain
+conjugated estrogens,instance of,medication
+immunoglobulin G,subclass of,immunoglobulin
+immunoglobulin G,subclass of,antibody
+emtricitabine/rilpivirine/tenofovir,has part(s),rilpivirine
+botulinum toxin type A,medical condition treated,migraine
+botulinum toxin type A,medical condition treated,migraine
+ginseng,medical condition treated,erectile dysfunction
+emtricitabine/rilpivirine/tenofovir,has part(s),tenofovir disoproxil
+botulinum toxin type A,found in taxon,Clostridium botulinum
+progestogen,subclass of,sex steroid
+ginseng,medical condition treated,fatigue
+heparin,instance of,medication
+ginseng,medical condition treated,erectile dysfunction
+tinzaparin,instance of,mixture
+botulinum toxin type A,medical condition treated,cerebral palsy
+immunoglobulin G,instance of,chemical substance
+botulinum toxin type A,medical condition treated,cerebral palsy
+botulinum toxin type A,subclass of,botulinum toxin group
+botulinum toxin type A,medical condition treated,blepharospasm
+progestogen,instance of,medication
+botulinum toxin type A,medical condition treated,dystonia
+botulinum toxin type A,medical condition treated,skin disease
+ginseng,natural product of taxon,Panax
+botulinum toxin type A,medical condition treated,hemiplegia
+progestogen,instance of,steroid hormone
+botulinum toxin type A,medical condition treated,neurogenic bladder
+botulinum toxin type A,medical condition treated,mechanical strabismus
+immunoglobulin G,instance of,medication
+botulinum toxin type A,medical condition treated,migraine without aura
+antibiotic,instance of,medication
+botulinum toxin type A,medical condition treated,congenital torticollis
+ledipasvir/sofosbuvir,instance of,combination drug
+botulinum toxin type A,medical condition treated,neurogenic bladder
+emtricitabine/rilpivirine/tenofovir,instance of,mixture
+stem bromelain,instance of,protein
+corticotropin,medical condition treated,multiple sclerosis
+ginseng,described by source,Encyclopædia Britannica 11th edition
+emtricitabine/rilpivirine/tenofovir,instance of,medication
+corticotropin,physically interacts with,Melanocortin 2 receptor
+tinzaparin,instance of,low molecular weight heparin
+botulinum toxin type A,subject has role,acetylcholine release inhibitors
+corticotropin,encoded by,POMC
+corticotropin,subject has role,hormone
+corticotropin,has part(s),corticotropin-like intermediate peptide
+progestogen,instance of,steroid hormone
+corticotropin,medical condition treated,infantile epileptic encephalopathy
+botulinum toxin type A,instance of,medication
+progestogen,instance of,medication
+botulinum toxin type A,instance of,protein
+ledipasvir/sofosbuvir,medical condition treated,hepatitis C
+ledipasvir/sofosbuvir,medical condition treated,liver cirrhosis
+ledipasvir/sofosbuvir,active ingredient in,Harvoni
+emtricitabine/rilpivirine/tenofovir,instance of,chemical substance
+ledipasvir/sofosbuvir,instance of,medication
+corticotropin,found in taxon,Homo sapiens
+ledipasvir/sofosbuvir,medical condition treated,hepatitis C
+immunoglobulin G,subject has role,immunologic factor
+indacaterol/glycopyrrolate,has part(s),glycopyrronium bromide
+ledipasvir/sofosbuvir,medical condition treated,liver cirrhosis
+corticotropin,has part(s),alpha-melanocyte-stimulating hormone
+indacaterol/glycopyrrolate,has part(s),indacaterol
+ado-trastuzumab emtansine,active ingredient in,Kadcyla
+stem bromelain,instance of,medication
+ginseng,instance of,medication
+industrial bromelain,different from,bromelain
+industrial bromelain,has part(s),stem bromelain
+ceftazidime/avibactam,has part(s),avibactam
+botulinum toxin type A,instance of,biopharmaceutical
+pentastarch,has part(s),oxygen
+ado-trastuzumab emtansine,different from,trastuzumab
+ceftazidime/avibactam,has part(s),ceftazidime
+pentastarch,has part(s),carbon
+pentastarch,has part(s),hydrogen
+botulinum toxin type A,instance of,metalloproteinase
+Stelara,therapeutic area,psoriatic arthritis
+Stelara,has active ingredient,ustekinumab
+Stelara,therapeutic area,psoriatic arthritis
+sebelipase alfa,said to be the same as,"Lipase A, lysosomal acid type"
+Stelara,therapeutic area,acropustulosis
+ginseng,instance of,medicinal plant
+ginseng,instance of,food ingredient
+Stelara,therapeutic area,Crohn's colitis
+corticotropin,instance of,biopharmaceutical
+corticotropin,instance of,peptide hormone
+defibrotide,instance of,mixture
+sebelipase alfa,subclass of,medication
+abacavir/lamivudine,has part(s),lamivudine
+pentastarch,instance of,polysaccharide
+abacavir/lamivudine,has part(s),abacavir
+ceftazidime/avibactam,instance of,chemical substance
+corticotropin,instance of,medication
+ceftazidime/avibactam,instance of,medication
+sitagliptin/metformin,has part(s),metformin
+indacaterol/glycopyrrolate,instance of,mixture
+sitagliptin/metformin,active ingredient in,Janumet
+industrial bromelain,instance of,medication
+defibrotide,instance of,biopharmaceutical
+sitagliptin/metformin,has part(s),sitagliptin
+indacaterol/glycopyrrolate,instance of,medication
+buprenorphine/naloxone,medical condition treated,substance abuse
+buprenorphine/naloxone,medical condition treated,non-controlled substance abuse
+sebelipase alfa,instance of,enzyme
+pentastarch,instance of,medication
+defibrotide,instance of,medication
+ceftazidime/avibactam,instance of,mixture
+buprenorphine/naloxone,active ingredient in,buprenorphine/naloxone
+buprenorphine/naloxone,medical condition treated,withdrawal symptom
+sodium ferric gluconate complex,medical condition treated,anemia
+industrial bromelain,instance of,mixture
+buprenorphine/naloxone,has part(s),buprenorphine
+carbidopa / levodopa / entacapone,medical condition treated,Parkinson's disease
+pentastarch,instance of,hydroxyethyl starch
+sodium ferric gluconate complex,active ingredient in,Ferrlecit
+sodium ferric gluconate complex,medical condition treated,iron deficiency anemia
+ado-trastuzumab emtansine,instance of,monoclonal antibody
+buprenorphine/naloxone,has part(s),naloxone
+sebelipase alfa,instance of,medication
+carbidopa / levodopa / entacapone,has part(s),entacapone
+sitagliptin/metformin,instance of,medication
+abacavir/lamivudine,instance of,essential medicine
+ado-trastuzumab emtansine,instance of,medication
+carbidopa / levodopa / entacapone,has part(s),(S)-(−)-carbidopa monohydrate
+buprenorphine/naloxone,subclass of,chemical compound
+carbidopa / levodopa / entacapone,has part(s),levodopa
+activated carbon,color,black
+Stelara,instance of,medication
+abacavir/lamivudine,instance of,mixture
+Stelara,instance of,brand
+activated carbon,has part(s),carbon
+activated carbon,said to be the same as,biochar
+sofosbuvir/velpatasvir,has active ingredient,sofosbuvir
+sofosbuvir/velpatasvir,medical condition treated,hepatitis C
+sofosbuvir/velpatasvir,has active ingredient,velpatasvir
+sacrosidase,instance of,medication
+sitagliptin/metformin,instance of,mixture
+Stelara,instance of,mixture
+sofosbuvir/velpatasvir,medical condition treated,hepatitis C
+activated carbon,subclass of,material
+abacavir/lamivudine,instance of,medication
+talimogene laherparepvec,medical condition treated,melanoma
+lutropin alfa,physically interacts with,Luteinizing hormone/choriogonadotropin receptor
+buprenorphine/naloxone,instance of,mixture
+amlodipine/benazepril,medical condition treated,arterial hypertension
+sofosbuvir/velpatasvir,has part(s),velpatasvir
+talimogene laherparepvec,subclass of,virus
+sitagliptin/metformin,instance of,chemical substance
+sofosbuvir/velpatasvir,has part(s),sofosbuvir
+carbidopa / levodopa / entacapone,instance of,chemical substance
+amlodipine/benazepril,medical condition treated,arterial hypertension
+carbidopa / levodopa / entacapone,instance of,mixture
+nystatin,subject has role,antibiotic
+activated carbon,instance of,filter
+carbidopa / levodopa / entacapone,instance of,medication
+nystatin,medical condition treated,candidiasis
+amlodipine/benazepril,has part(s),benazepril
+lutropin alfa,subclass of,gonadotropins
+amlodipine/benazepril,has part(s),amlodipine
+sodium ferric gluconate complex,instance of,macromolecule
+luspatercept,instance of,medication
+nystatin,medical condition treated,candidiasis
+nystatin,subject has role,antifungal
+nystatin,medical condition treated,chronic mucocutaneous candidiasis
+activated carbon,instance of,medication
+buprenorphine/naloxone,instance of,chemical substance
+nystatin,subject has role,ionophore
+nystatin,subject has role,enzyme inhibitor
+nystatin,medical condition treated,vulvovaginal candidiasis
+buprenorphine/naloxone,instance of,medication
+activated carbon,instance of,mixture
+sodium ferric gluconate complex,instance of,medication
+nystatin,medical condition treated,cutaneous candidiasis
+nystatin,medical condition treated,oral candidiasis
+telmisartan/hydrochlorothiazide,medical condition treated,arterial hypertension
+sofosbuvir/velpatasvir,instance of,chemical substance
+nystatin,has part(s),nystatin a3
+sofosbuvir/velpatasvir,instance of,essential medicine
+activated carbon,instance of,excipient
+activated carbon,instance of,essential medicine
+carbidopa / levodopa / entacapone,instance of,combination drug
+telmisartan/hydrochlorothiazide,has part(s),hydrochlorothiazide
+telmisartan/hydrochlorothiazide,medical condition treated,arterial hypertension
+fremanezumab,medical condition treated,migraine
+fremanezumab,medical condition treated,migraine
+nystatin,has part(s),nystatin A1
+fremanezumab,medical condition treated,migraine without aura
+fremanezumab,medical condition treated,migraine with aura
+merestinib,subclass of,chemical compound
+nystatin,has part(s),nystatin a2
+sofosbuvir/velpatasvir,instance of,mixture
+amlodipine/benazepril,instance of,drug
+lutropin alfa,instance of,recombinant protein
+patisiran,medical condition treated,amyloidosis
+patisiran,medical condition treated,amyloidosis
+telmisartan/hydrochlorothiazide,has part(s),telmisartan
+artesunate/mefloquine,has part(s),artesunate
+artesunate/mefloquine,has part(s),(-)-mefloquine
+sofosbuvir/velpatasvir,instance of,medication
+nystatin,instance of,medication
+anti-tetanus immunoglobulin,medical condition treated,tetanus
+amlodipine/valsartan,medical condition treated,arterial hypertension
+amlodipine/valsartan,medical condition treated,arterial hypertension
+lutropin alfa,instance of,medication
+talimogene laherparepvec,instance of,medication
+anti-tetanus immunoglobulin,subclass of,antiserum
+amlodipine/valsartan,has part(s),amlodipine
+amlodipine/valsartan,has part(s),valsartan
+amlodipine/benazepril,instance of,medication
+nystatin,instance of,essential medicine
+nystatin,instance of,extract
+amlodipine/benazepril,instance of,mixture
+ferumoxytol,subject has role,parenteral nutrition solutions
+nystatin,instance of,mixture
+amlodipine/benazepril,instance of,chemical substance
+ferumoxytol,subject has role,hematinic
+ferumoxytol,subclass of,chemical substance
+placebo,has effect,placebo effect
+fremanezumab,instance of,medication
+telmisartan/hydrochlorothiazide,instance of,medication
+artesunate/mefloquine,instance of,mixture
+Dextran 70,instance of,essential medicine
+Serpin family A member 1,cell component,endoplasmic reticulum
+Serpin family A member 1,cell component,Golgi apparatus
+artesunate/mefloquine,instance of,essential medicine
+telmisartan/hydrochlorothiazide,instance of,mixture
+fremanezumab,instance of,monoclonal antibody
+placebo,subclass of,medical procedure
+Serpin family A member 1,molecular function,protein binding
+Serpin family A member 1,biological process,hemostasis
+merestinib,instance of,medication
+telmisartan/hydrochlorothiazide,instance of,chemical substance
+Serpin family A member 1,biological process,blood coagulation
+placebo,subclass of,simulacrum
+Serpin family A member 1,cell component,extracellular exosome
+Dextran 70,instance of,medication
+Serpin family A member 1,biological process,post-translational protein modification
+Serpin family A member 1,cell component,extracellular space
+Serpin family A member 1,cell component,extracellular region
+Serpin family A member 1,encoded by,SERPINA1
+amlodipine/valsartan,instance of,chemical substance
+Serpin family A member 1,found in taxon,Homo sapiens
+Serpin family A member 1,subject has role,Trypsin inhibitor
+patisiran,instance of,medication
+artesunate/mefloquine,instance of,medication
+acetylsalicylic acid/dipyridamole,has part(s),aspirin
+emapalumab,medical condition treated,hemophagocytic lymphohistiocytosis
+patisiran,instance of,active ingredient
+acetylsalicylic acid/dipyridamole,has part(s),dipyridamole
+rifamycin,has part(s),rifamycin
+ethinylestradiol/etonogestrel,has part(s),ethinylestradiol
+anti-tetanus immunoglobulin,instance of,essential medicine
+acetylsalicylic acid/dipyridamole,subclass of,chemical compound
+ferumoxytol,instance of,medication
+rifamycin,subclass of,ansamycin
+ferumoxytol,instance of,chemical substance
+rifamycin,subject has role,antibiotic
+ethinylestradiol/etonogestrel,has part(s),etonogestrel
+aviptadil,has part(s),vasoactive intestinal peptide
+testosterone,instance of,medication
+rifamycin,subclass of,antibiotic
+anti-tetanus immunoglobulin,instance of,medication
+amlodipine/valsartan,instance of,mixture
+beractant,medical condition treated,acute respiratory distress syndrome
+beractant,medical condition treated,acute respiratory distress syndrome
+Serpin family A member 1,instance of,medication
+prostaglandin E,has part(s),prostaglandin E2
+placebo,instance of,scientific control
+placebo,instance of,medical treatment
+amlodipine/valsartan,instance of,medication
+prostaglandin E,has part(s),alprostadil
+placebo,instance of,medication
+Serpin family A member 1,instance of,protein
+calfactant,subject has role,pulmonary surfactant
+modafinil,medical condition treated,fatigue
+modafinil,medical condition treated,multiple sclerosis
+modafinil,has use,medication
+Serpin family A member 1,instance of,biopharmaceutical
+modafinil,medical condition treated,attention deficit hyperactivity disorder
+testosterone,instance of,essential medicine
+modafinil,medical condition treated,attention deficit hyperactivity disorder
+prostaglandin E,subclass of,prostaglandins
+acetylsalicylic acid/dipyridamole,instance of,medication
+modafinil,medical condition treated,narcolepsy
+chondroitin sulfate,subclass of,mucopolysaccharide
+modafinil,subject has role,nootropic
+modafinil,subject has role,dopamine reuptake inhibitor
+beractant,subject has role,pulmonary surfactant
+albuterol / ipratropium,medical condition treated,pneumonia
+albuterol / ipratropium,medical condition treated,pneumonia
+emapalumab,instance of,monoclonal antibody
+modafinil,medical condition treated,hypersomnia
+rifamycin,instance of,medication
+modafinil,subclass of,chemical compound
+botulinum toxin Type B,part of,botulinum toxin group
+botulinum toxin Type B,medical condition treated,dystonia
+ethinylestradiol/etonogestrel,instance of,medication
+emapalumab,instance of,medication
+botulinum toxin Type B,physically interacts with,Vesicle associated membrane protein 2
+aviptadil,instance of,medication
+botulinum toxin Type B,found in taxon,Clostridium botulinum
+acetylsalicylic acid/dipyridamole,instance of,combination drug
+albuterol / ipratropium,has part(s),ipratropium
+botulinum toxin Type B,subject has role,acetylcholine release inhibitors
+diphtheria antitoxin,medical condition treated,diphtheria
+prostaglandin E,instance of,medication
+collagenase clostridium histolyticum,found in taxon,Hathewaya histolytica
+albuterol / ipratropium,has part(s),rac-salbutamol
+ethinylestradiol/etonogestrel,instance of,combination drug
+diphtheria antitoxin,subclass of,antiserum
+Insulin degludec,subclass of,protein
+modafinil,instance of,medication
+Insulin degludec,subclass of,insulin analog
+calfactant,instance of,mixture
+collagenase clostridium histolyticum,subclass of,collagenase
+beractant,instance of,medication
+ivermectin,has part(s),ivermectin b1b
+modafinil,instance of,nootropic
+levodopa/carbidopa,medical condition treated,Parkinson's disease
+beractant,instance of,mixture
+ivermectin,has part(s),ivermectin b1a
+chondroitin sulfate,instance of,medication
+botulinum toxin Type B,instance of,biopharmaceutical
+levodopa/carbidopa,medical condition treated,parkinsonian syndrome
+levodopa/carbidopa,has part(s),levodopa
+levodopa/carbidopa,has part(s),(S)-(−)-carbidopa monohydrate
+chondroitin sulfate,instance of,polymer
+dorzolamide/timolol,medical condition treated,glaucoma
+albuterol / ipratropium,instance of,chemical substance
+calfactant,instance of,medication
+chondroitin sulfate,instance of,mixture
+dorzolamide/timolol,medical condition treated,ocular hypertension
+capreomycin,medical condition treated,tuberculosis
+capreomycin,medical condition treated,tuberculosis
+collagenase clostridium histolyticum,instance of,medication
+botulinum toxin Type B,instance of,medication
+levodopa/carbidopa,instance of,essential medicine
+dorzolamide/timolol,has part(s),(S)-(−)-timolol
+capreomycin,subject has role,antibiotic
+ivermectin,instance of,mixture
+botulinum toxin Type B,instance of,protein
+albuterol / ipratropium,instance of,mixture
+capreomycin,natural product of taxon,Streptomyces
+dorzolamide/timolol,has part(s),dorzolamide
+capreomycin,has part(s),capreomycin Ib
+diphtheria antitoxin,instance of,medication
+efonidipine,subject has role,calcium channel blocker
+efonidipine,subject has role,diuretic
+capreomycin,subject has role,protein synthesis inhibitor
+efonidipine,subject has role,diuretic
+albuterol / ipratropium,instance of,medication
+asenapine,medical condition treated,schizoaffective disorder
+collagenase clostridium histolyticum,instance of,mixture
+levodopa/carbidopa,instance of,medication
+asenapine,different from,"5-chloro-2-methyl-2,3,3a,12b-tetrahydrodibenzo[2,3:6,7]oxepino[4,5-c]pyrrole"
+asenapine,medical condition treated,schizoaffective disorder
+asenapine,medical condition treated,psychosis
+efonidipine,subject has role,antihypertensive drug
+diphtheria antitoxin,instance of,essential medicine
+ivermectin,instance of,essential medicine
+levodopa/carbidopa,instance of,combination drug
+capreomycin,has part(s),capreomycin Ia
+Insulin degludec,instance of,medication
+collagenase clostridium histolyticum,instance of,biopharmaceutical
+capreomycin,instance of,medication
+ivermectin,instance of,medication
+asenapine,has part(s),"(S,S)-asenapine"
+asenapine,has part(s),"(R,R)-asenapine"
+abacavir/dolutegravir/lamivudine,route of administration,oral administration
+renin inhibitor,instance of,medication
+dorzolamide/timolol,instance of,mixture
+tranylcypromine,physically interacts with,lysine demethylase 1A
+dorzolamide/timolol,instance of,medication
+dorzolamide/timolol,instance of,chemical substance
+tranylcypromine,physically interacts with,Monoamine oxidase A
+tranylcypromine,subject has role,anxiolytic
+abacavir/dolutegravir/lamivudine,has part(s),dolutegravir
+tranylcypromine,physically interacts with,Monoamine oxidase B
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,has part(s),cobicistat
+tranylcypromine,subject has role,antidepressant
+abacavir/dolutegravir/lamivudine,has part(s),abacavir
+tranylcypromine,significant drug interaction,procarbazine
+abacavir/dolutegravir/lamivudine,has part(s),lamivudine
+capreomycin,instance of,mixture
+tranylcypromine,medical condition treated,post-traumatic stress disorder
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,has part(s),tenofovir disoproxil
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,has part(s),emtricitabine
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,has part(s),elvitegravir
+levodopa/carbidopa,instance of,mixture
+tranylcypromine,medical condition treated,post-traumatic stress disorder
+ivermectin,medical condition treated,scabies
+ivermectin,medical condition treated,scabies
+tranylcypromine,has part(s),trans-(−)-tranylcypromine
+tranylcypromine,medical condition treated,neurotic disorder
+tranylcypromine,has part(s),trans-(+)-tranylcypromine
+tranylcypromine,different from,trans-(+)-tranylcypromine
+efonidipine,instance of,racemate
+tranylcypromine,different from,2-phenylcyclopropan-1-amine
+ivermectin,medical condition treated,filariasis
+ivermectin,medical condition treated,onchocerciasis
+efonidipine,instance of,"2-[benzyl(phenyl)amino]ethyl 5-(5,5-dimethyl-2-oxido-1,3,2-dioxaphosphinan-2-yl)-2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3-carboxylate"
+ivermectin,subject has role,antiparasitic
+ivermectin,medical condition treated,filariasis
+tranylcypromine,different from,trans-(−)-tranylcypromine
+ivermectin,medical condition treated,mansonelliasis
+ivermectin,medical condition treated,strongyloidiasis
+ivermectin,subject has role,insecticide
+ivermectin,medical condition treated,rosacea
+tranylcypromine,subject has role,monoamine oxidase inhibitor
+ivermectin,medical condition treated,ascariasis
+ivermectin,medical condition treated,elephantiasis
+ivermectin,active ingredient in,Stromectol
+ivermectin,medical condition treated,lice infestation
+ivermectin,medical condition treated,strongyloidiasis
+capreomycin,instance of,essential medicine
+ivermectin,medical condition treated,trichuriasis
+abacavir/dolutegravir/lamivudine,instance of,mixture
+dorzolamide/timolol,instance of,combination drug
+umeclidinium bromide/vilanterol,has part(s),vilanterol
+bleomycin,medical condition treated,testicular cancer
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,instance of,mixture
+bleomycin,subject has role,antibiotic
+bleomycin,medical condition treated,melanoma
+tranylcypromine,instance of,racemate
+ivermectin,medical condition treated,trichuriasis
+bleomycin,manufacturer,Pfizer
+bleomycin,subject has role,DNA polymerase inhibitors
+umeclidinium bromide/vilanterol,has part(s),umeclidinium bromide
+bleomycin,medical condition treated,lymphosarcoma
+abacavir/dolutegravir/lamivudine,instance of,medication
+bleomycin,medical condition treated,squamous cell carcinoma
+bleomycin,medical condition treated,"Hodgkin's lymphoma, mixed cellularity"
+asenapine,instance of,racemate
+bleomycin,activator of,Col3a1
+bleomycin,significant drug interaction,brentuximab vedotin
+epoetin beta,active ingredient in,Neorecormon
+abacavir/dolutegravir/lamivudine,instance of,chemical substance
+efonidipine,instance of,medication
+bleomycin,activator of,Col3a1
+bleomycin,medical condition treated,spindle cell sarcoma
+bleomycin,different from,bleomycin A2
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,instance of,chemical substance
+bleomycin,subject has role,antineoplastic antibiotics
+insulin glargine,medical condition treated,hyperglycemia
+elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil,instance of,medication
+bleomycin,has part(s),bleomycin A2
+bleomycin,has part(s),bleomycin B2
+tranylcypromine,instance of,medication
+glucagon-like peptide-1 agonist,agonist of,glucagon-like peptide-1
+asenapine,instance of,medication
+insulin glargine,subject has role,anti-diabetic medication
+insulin glargine,medical condition treated,type-1 diabetes
+elixir,described by source,Encyclopædia Britannica 11th edition
+insulin glargine,medical condition treated,maturity-onset diabetes of the young type 2
+elixir,described by source,Brockhaus and Efron Encyclopedic Dictionary
+insulin glargine,subclass of,protein
+elixir,subclass of,liqueur
+andexanet alfa,has active ingredient,coagulation factor X
+elixir,subclass of,medication
+glucagon-like peptide-1 agonist,subclass of,anti-diabetic medication
+elixir,described by source,Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste
+gentamicin,subject has role,antibiotic
+gentamicin,physically interacts with,"Transient receptor potential cation channel, subfamily A, member 1"
+gentamicin,medical condition treated,sepsis
+gentamicin,medical condition treated,sepsis
+gentamicin,medical condition treated,urinary tract infection
+gentamicin,medical condition treated,staphylococcal infection
+gentamicin,medical condition treated,infective endocarditis
+gentamicin,medical condition treated,bubonic plague
+umeclidinium bromide/vilanterol,instance of,mixture
+gentamicin,subclass of,antibiotic
+desiccated thyroid extract,instance of,extract
+desiccated thyroid extract,instance of,mixture
+gentamicin,medical condition treated,urinary tract infection
+bleomycin,instance of,essential medicine
+desiccated thyroid extract,instance of,medication
+bleomycin,instance of,mixture
+gentamicin,medical condition treated,infectious bone disease
+umeclidinium bromide/vilanterol,instance of,chemical substance
+insulin glargine,instance of,medication
+gentamicin,found in taxon,Micromonospora
+gentamicin,subject has role,protein synthesis inhibitor
+gentamicin,medical condition treated,Pseudomonas infection
+umeclidinium bromide/vilanterol,instance of,medication
+gentamicin,medical condition treated,upper respiratory tract infection
+gentamicin,subclass of,aminoglycoside
+gentamicin,found in taxon,Swertia punicea
+epoetin beta,instance of,medication
+kanamycin (extract),subject has role,antibiotic
+gentamicin,has part(s),sulfate
+Sacubitril/valsartan,medical condition treated,arterial hypertension
+kanamycin (extract),subject has role,protein synthesis inhibitor
+kanamycin (extract),has active ingredient,kanamycin A
+kanamycin (extract),produced by,Streptomyces kanamyceticus
+bleomycin,instance of,medication
+kanamycin (extract),medical condition treated,upper respiratory tract infection
+kanamycin (extract),has part(s),Kanamycin C
+gentamicin,instance of,medication
+glucagon-like peptide-1 agonist,instance of,medication
+Sacubitril/valsartan,medical condition treated,arterial hypertension
+kanamycin (extract),subclass of,aminoglycoside
+menotropin,instance of,mixture
+Sacubitril/valsartan,medical condition treated,heart disease
+Sacubitril/valsartan,medical condition treated,congestive heart failure
+gentamicin,instance of,mixture
+menotropin,instance of,medication
+Sacubitril/valsartan,medical condition treated,cardiomyopathy
+kanamycin (extract),has part(s),kanamycin A
+kanamycin (extract),has part(s),kanamycin B
+menotropin,instance of,biopharmaceutical
+lamivudine/zidovudine,medical condition treated,HIV/AIDS
+lamivudine/zidovudine,medical condition treated,HIV/AIDS
+pre-exposure prophylaxis against HIV,approved by,England
+epoetin beta,instance of,chemical substance
+Sacubitril/valsartan,medical condition treated,cardiomyopathy
+pre-exposure prophylaxis against HIV,approved by,Canada
+andexanet alfa,instance of,medication
+pre-exposure prophylaxis against HIV,approved by,Scotland
+pre-exposure prophylaxis against HIV,approved by,Norway
+insulin glargine,instance of,biopharmaceutical
+kanamycin (extract),subclass of,antituberculous drug
+neomycin,has part(s),framycetin
+gentamicin,instance of,extract
+neomycin,has part(s),neamine
+lamivudine/zidovudine,has part(s),zidovudine
+pre-exposure prophylaxis against HIV,approved by,Wales
+pre-exposure prophylaxis against HIV,approved by,Sweden
+pre-exposure prophylaxis against HIV,approved by,United States of America
+lamivudine/zidovudine,has part(s),lamivudine
+pre-exposure prophylaxis against HIV,approved by,Ireland
+pre-exposure prophylaxis against HIV,approved by,Belgium
+laureth,described by source,English Wiktionary
+pre-exposure prophylaxis against HIV,approved by,Northern Ireland
+pre-exposure prophylaxis against HIV,approved by,Spain
+pre-exposure prophylaxis against HIV,approved by,Kenya
+pre-exposure prophylaxis against HIV,approved by,Switzerland
+pre-exposure prophylaxis against HIV,approved by,Switzerland
+pre-exposure prophylaxis against HIV,approved by,Luxembourg
+pre-exposure prophylaxis against HIV,approved by,Netherlands
+neomycin,has part(s),neomycin c
+pre-exposure prophylaxis against HIV,approved by,France
+pre-exposure prophylaxis against HIV,approved by,Portugal
+pre-exposure prophylaxis against HIV,approved by,Ukraine
+pre-exposure prophylaxis against HIV,approved by,Australia
+pre-exposure prophylaxis against HIV,approved by,Peru
+pre-exposure prophylaxis against HIV,approved by,South Africa
+gentamicin,instance of,essential medicine
+pre-exposure prophylaxis against HIV,approved by,Iceland
+pre-exposure prophylaxis against HIV,approved by,Germany
+kanamycin (extract),instance of,medication
+pre-exposure prophylaxis against HIV,approved by,Brazil
+neomycin,subclass of,aminoglycoside
+pre-exposure prophylaxis against HIV,approved by,Curaçao
+elixir,instance of,medication
+pre-exposure prophylaxis against HIV,approved by,European Economic Area
+pre-exposure prophylaxis against HIV,approved by,Chile
+pre-exposure prophylaxis against HIV,approved by,New Zealand
+neomycin,subject has role,antibiotic
+kanamycin (extract),instance of,mixture
+pre-exposure prophylaxis against HIV,approved by,Aruba
+insulin,produced by,pancreas
+pre-exposure prophylaxis against HIV,approved by,Israel
+insulin,medical condition treated,maturity-onset diabetes of the young type 2
+insulin,subject has role,anti-diabetic medication
+pre-exposure prophylaxis against HIV,approved by,Vietnam
+pre-exposure prophylaxis against HIV,approved by,Sint Maarten
+insulin,medical condition treated,type-1 diabetes
+pre-exposure prophylaxis against HIV,approved by,Taiwan
+neomycin,subject has role,protein synthesis inhibitor
+insulin,active ingredient in,Humulin R
+insulin,found in taxon,Homo sapiens
+pyridoxine/doxylamine,medical condition treated,vomiting
+pre-exposure prophylaxis against HIV,subclass of,preventive medicine
+pyridoxine/doxylamine,medical condition treated,nausea
+pyridoxine/doxylamine,medical condition treated,morning sickness
+pyridoxine/doxylamine,route of administration,oral administration
+dalteparin,medical condition treated,myocardial infarction
+pyridoxine/doxylamine,side effect,somnolence
+dalteparin,significant drug interaction,tenoxicam
+dalteparin,medical condition treated,myocardial infarction
+pyridoxine/doxylamine,has part(s),doxylamine
+lamivudine/zidovudine,instance of,mixture
+fish oil,has use,food additive
+insulin,has part(s),insulin B chain
+dalteparin,significant drug interaction,Diclofenac
+pyridoxine/doxylamine,has part(s),pyridoxine
+dalteparin,significant drug interaction,heparin
+neomycin,instance of,extract
+dalteparin,medical condition treated,pulmonary embolism
+dalteparin,significant drug interaction,acenocoumarol
+dalteparin,medical condition treated,pulmonary embolism
+dalteparin,manufacturer,Pfizer
+fish oil,described by source,Brockhaus and Efron Encyclopedic Dictionary
+dalteparin,significant drug interaction,indomethacin
+lamivudine/zidovudine,instance of,essential medicine
+dalteparin,significant drug interaction,ibuprofen
+dalteparin,significant drug interaction,parecoxib
+lamivudine/zidovudine,instance of,chemical substance
+neomycin,instance of,mixture
+kanamycin (extract),instance of,extract
+dalteparin,significant drug interaction,abciximab
+dalteparin,significant drug interaction,piroxicam
+dalteparin,significant drug interaction,(RS)-ketoprofen
+dalteparin,significant drug interaction,clopidogrel
+dalteparin,significant drug interaction,apixaban
+dalteparin,significant drug interaction,(+-)-flurbiprofen
+dalteparin,significant drug interaction,meloxicam
+dalteparin,significant drug interaction,prasugrel
+dalteparin,significant drug interaction,celecoxib
+dalteparin,significant drug interaction,rivaroxaban
+dalteparin,medical condition treated,thrombophlebitis
+neomycin,instance of,medication
+dalteparin,significant drug interaction,naproxen
+lamivudine/zidovudine,instance of,medication
+dalteparin,significant drug interaction,aceclofenac
+dalteparin,significant drug interaction,tirofiban
+dalteparin,significant drug interaction,tenecteplase
+dalteparin,significant drug interaction,Streptokinase
+dalteparin,significant drug interaction,phenindione
+laureth,instance of,medication
+dalteparin,significant drug interaction,(RS)-fenoprofen
+dalteparin,significant drug interaction,tinzaparin
+dalteparin,physically interacts with,Serpin family C member 1
+pre-exposure prophylaxis against HIV,instance of,medication
+dalteparin,significant drug interaction,nabumetone
+dalteparin,significant drug interaction,sulindac
+dalteparin,significant drug interaction,eptifibatide
+dalteparin,significant drug interaction,ticagrelor
+dalteparin,significant drug interaction,rac-warfarin
+dalteparin,significant drug interaction,alteplase
+dalteparin,significant drug interaction,urokinase
+dalteparin,significant drug interaction,iloprost
+dalteparin,significant drug interaction,(RS)-etodolac
+dalteparin,significant drug interaction,fondaparinux
+dalteparin,medical condition treated,unstable angina
+dalteparin,subject has role,fibrinolytic agents
+dalteparin,subject has role,anticoagulant
+artificial saliva,medical condition treated,xerostomia
+dalteparin,subject has role,enzyme activator
+artificial saliva,medical condition treated,xerostomia
+fish oil,instance of,medication
+urokinase,significant drug interaction,rivaroxaban
+urokinase,significant drug interaction,acenocoumarol
+nabilone,medical condition treated,vomiting
+adapalene / benzoyl peroxide,has part(s),adapalene
+urokinase,significant drug interaction,apixaban
+adapalene / benzoyl peroxide,has part(s),benzoyl peroxide
+nabilone,subject has role,anxiolytic
+urokinase,significant drug interaction,heparin
+nabilone,different from,nabilone
+nabilone,subject has role,antiemetic
+insulin,instance of,protein complex
+urokinase,physically interacts with,plasmin
+urokinase,significant drug interaction,phenindione
+urokinase,significant drug interaction,fondaparinux
+urokinase,significant drug interaction,tinzaparin
+urokinase,significant drug interaction,dalteparin
+urokinase,significant drug interaction,rac-warfarin
+selenium disulfide,medical condition treated,pityriasis versicolor
+urokinase,significant drug interaction,ticagrelor
+pyridoxine/doxylamine,instance of,medication
+selenium disulfide,medical condition treated,seborrhoeic dermatitis
+urokinase,medical condition treated,myocardial infarction
+urokinase,medical condition treated,coronary thrombosis
+urokinase,medical condition treated,pulmonary embolism
+pyridoxine/doxylamine,instance of,mixture
+selenium disulfide,medical condition treated,scalp dermatosis
+insulin,instance of,peptide hormone
+urokinase,medical condition treated,myocardial infarction
+selenium disulfide,different from,selenium disulfide
+insulin,instance of,medication
+selenium disulfide,subject has role,dermatologic drug
+urokinase,medical condition treated,pulmonary embolism
+dalteparin,instance of,medication
+Sacubitril/valsartan,has part(s),sacubitril
+insulin,instance of,biopharmaceutical
+sedative,has use,sedation
+Sacubitril/valsartan,has part(s),valsartan
+dalteparin,instance of,low molecular weight heparin
+ibritumomab,subject has role,radiopharmaceutical
+adapalene / benzoyl peroxide,instance of,chemical substance
+adapalene / benzoyl peroxide,instance of,mixture
+nabilone,instance of,medication
+trastuzumab deruxtecan,has part(s),deruxtecan
+trastuzumab deruxtecan,has part(s),trastuzumab
+quinupristin/dalfopristin,subject has role,antibiotic
+adapalene / benzoyl peroxide,instance of,medication
+selenium disulfide,instance of,medication
+sedative,subclass of,hypnotics and sedatives
+nabilone,instance of,racemate
+urokinase,instance of,medication
+selenium disulfide,instance of,essential medicine
+selenium disulfide,instance of,mixture
+artificial saliva,instance of,medication
+quinupristin/dalfopristin,has part(s),quinupristin
+artificial tears,subclass of,lubricant
+dalteparin,instance of,mixture
+cajeput oil,natural product of taxon,Melaleuca
+cajeput oil,medical condition treated,abdominal pain
+quinupristin/dalfopristin,subject has role,protein synthesis inhibitor
+cajeput oil,medical condition treated,abdominal pain
+cajeput oil,indigenous to,Maluku Islands
+budesonide/formoterol,medical condition treated,ulcerative colitis
+Sacubitril/valsartan,instance of,chemical substance
+artificial tears,subclass of,eye drop
+urokinase,instance of,biopharmaceutical
+budesonide/formoterol,medical condition treated,pneumonia
+quinupristin/dalfopristin,has part(s),dalfopristin
+cajeput oil,natural product of taxon,Melaleuca cajuputi
+ibritumomab,instance of,medication
+budesonide/formoterol,medical condition treated,ulcerative colitis
+cajeput oil,described by source,Encyclopædia Britannica 11th edition
+budesonide/formoterol,medical condition treated,microscopic colitis
+budesonide/formoterol,medical condition treated,respiratory disease
+budesonide/formoterol,medical condition treated,pneumonia
+cajeput oil,subclass of,essential oil
+Sacubitril/valsartan,instance of,mixture
+ibritumomab,instance of,monoclonal antibody
+budesonide/formoterol,has part(s),budesonide
+candicidin,subject has role,antibiotic
+budesonide/formoterol,has part(s),formoterol
+haemaccel,instance of,medication
+sedative,instance of,medication
+ravulizumab,instance of,monoclonal antibody
+onasemnogene abeparvovec,manufacturer,Novartis
+candicidin,has active ingredient,candicidin D
+budesonide/formoterol,medical condition treated,lung disease
+candicidin,produced by,Streptomyces griseus
+candicidin,subject has role,antifungal
+ibritumomab,instance of,biopharmaceutical
+Adderall,has active ingredient,dextroamphetamine
+Adderall,has active ingredient,DL-amphetamine
+quinupristin/dalfopristin,instance of,medication
+Sacubitril/valsartan,instance of,medication
+antiparkinson,medical condition treated,Parkinson's disease
+antiparkinson,has use,Management of Parkinson's disease
+trastuzumab deruxtecan,instance of,medication
+artificial tears,instance of,medication
+pepsin,different from,pepsin
+ravulizumab,instance of,medication
+phosphatidyl serine,physically interacts with,Adhesion G protein-coupled receptor B1
+phosphatidyl serine,has part(s),carbon
+budesonide/formoterol,instance of,medication
+satralizumab,instance of,monoclonal antibody
+quinupristin/dalfopristin,instance of,mixture
+danaparoid,instance of,medication
+cajeput oil,instance of,medication
+phosphatidyl serine,subclass of,phospholipids
+onasemnogene abeparvovec,instance of,medication
+budesonide/formoterol,instance of,essential medicine
+budesonide/formoterol,instance of,mixture
+candicidin,instance of,mixture
+xenon-133,subclass of,xenon
+onasemnogene abeparvovec,instance of,gene therapy
+satralizumab,instance of,medication
+Asparaginase,medical condition treated,lymphoma
+Asparaginase,found in taxon,Escherichia coli
+Asparaginase,found in taxon,Dickeya dadantii
+candicidin,instance of,medication
+Asparaginase,subject has role,antineoplastic
+Asparaginase,different from,asparaginase
+tafasitamab,instance of,medication
+Tylenol,has active ingredient,paracetamol
+Asparaginase,medical condition treated,lymphoid leukemia
+onasemnogene abeparvovec,instance of,gene therapy
+Adderall,instance of,mixture
+budesonide/formoterol,instance of,chemical substance
+Adderall,instance of,medication
+candicidin,instance of,extract
+Tylenol,product or material produced or service provided,analgesic
+belantamab mafodotin,instance of,medication
+danaparoid,instance of,heparinoid
+antiparkinson,instance of,medication
+Tylenol,country,United States of America
+cajeput oil,instance of,chemical substance
+belantamab mafodotin,instance of,monoclonal antibody
+Tylenol,product or material produced or service provided,analgesic
+phentermine/topiramate,has part(s),topiramate
+pepsin,instance of,medication
+phosphatidyl serine,instance of,medication
+phentermine/topiramate,has part(s),phentermine
+xenon-133,subject has role,radiopharmaceutical
+dronabinol,different from,droperidol
+xenon-133,instance of,medication
+bamlanivimab,developer,AbCellera
+Asparaginase,instance of,medication
+emtricitabine/tenofovir/efavirenz,has part(s),emtricitabine
+xenon-133,instance of,isotope of xenon
+emtricitabine/tenofovir/efavirenz,has part(s),efavirenz
+tafasitamab,instance of,monoclonal antibody
+activated charcoal,made from material,activated carbon
+activated charcoal,subject has role,antidote
+emtricitabine/tenofovir/efavirenz,has part(s),tenofovir disoproxil
+Asparaginase,instance of,essential medicine
+pegcetacoplan,physically interacts with,complement C3
+pepsin,instance of,mixture
+Asparaginase,instance of,biopharmaceutical
+Tylenol,instance of,brand
+emtricitabine/tenofovir/efavirenz,instance of,essential medicine
+phentermine/topiramate,instance of,medication
+bamlanivimab,instance of,medication
+Sotrovimab,medical condition treated,COVID-19
+bamlanivimab,instance of,active ingredient
+emtricitabine/tenofovir/efavirenz,instance of,chemical substance
+neuromuscular-blocking drug,instance of,medication
+phentermine/topiramate,instance of,mixture
+pegcetacoplan,instance of,medication
+Tylenol,instance of,medication
+Asparaginase,instance of,asparaginase
+emtricitabine/tenofovir/efavirenz,instance of,medication
+phentermine/topiramate,instance of,chemical substance
+naxitamab,instance of,monoclonal antibody
+dronabinol,instance of,medication
+Viltolarsen,instance of,antisense oligonucleotide
+emtricitabine/tenofovir/efavirenz,instance of,mixture
+activated charcoal,instance of,essential medicine
+bulevirtide,instance of,medication
+Viltolarsen,instance of,medication
+bamlanivimab,instance of,antibody
+Sotrovimab,instance of,medication
+activated charcoal,instance of,medication
+naxitamab,instance of,medication
+Sotrovimab,instance of,monoclonal antibody
+rac-miconazole,significant drug interaction,acenocoumarol
+rac-miconazole,significant drug interaction,phenytoin
+rac-miconazole,physically interacts with,Transient receptor potential cation channel subfamily V member 5
+anti-tetanus immunoglobulin,medical condition treated,tetanus
+Asparaginase,different from,asparaginase
+rac-miconazole,medical condition treated,aspergillosis
+Asparaginase,medical condition treated,lymphoid leukemia
+rac-miconazole,significant drug interaction,glimepiride
+Asparaginase,subject has role,antineoplastic
+rac-miconazole,subject has role,antifungal
+rac-miconazole,different from,miconazole
+Asparaginase,medical condition treated,lymphoma
+rac-miconazole,has part(s),(S)-miconazole
+Asparaginase,found in taxon,Dickeya dadantii
+rac-miconazole,medical condition treated,aspergillosis
+Asparaginase,found in taxon,Escherichia coli
+calcium supplement,facet of,calcium compounds
+rac-miconazole,significant drug interaction,fosphenytoin
+rac-miconazole,physically interacts with,Transient receptor potential cation channel subfamily M member 2
+rac-miconazole,medical condition treated,vulvovaginal candidiasis
+calcium supplement,subclass of,dietary supplement
+rac-miconazole,medical condition treated,tinea pedis
+rac-miconazole,medical condition treated,cutaneous candidiasis
+rac-miconazole,medical condition treated,dermatomycosis
+rac-miconazole,has part(s),(R)-miconazole
+rac-miconazole,medical condition treated,oral candidiasis
+chlorine,discoverer or inventor,Carl Wilhelm Scheele
+anti-tetanus immunoglobulin,subclass of,antiserum
+chlorine,described by source,Encyclopædia Britannica 11th edition
+rac-miconazole,significant drug interaction,rac-warfarin
+chlorine,different from,serum chloride level
+rac-miconazole,medical condition treated,tinea
+chlorine,part of,halogens
+rac-miconazole,subject has role,14-alpha demethylase inhibitor
+chlorine,described by source,Brockhaus and Efron Encyclopedic Dictionary
+calcium,discoverer or inventor,Humphry Davy
+calcium,named after,lime
+chlorine,different from,dichlorine
+calcium,subject has role,essential medicine
+calcium,found in taxon,cacao
+calcium,found in taxon,Matricaria chamomilla
+calcium,part of,alkaline earth metal
+calcium,found in taxon,Chlorella vulgaris
+calcium,found in taxon,Foeniculum vulgare
+chlorine,subclass of,halogens
+calcium,found in taxon,Phytelephas aequatorialis
+calcium,found in taxon,Chlorella pyrenoidosa
+chlorine,named after,green
+calcium,described by source,Brockhaus and Efron Encyclopedic Dictionary
+calcium,found in taxon,Euphorbia lancifolia
+calcium,found in taxon,Montanoa tomentosa
+calcium,described by source,Encyclopædia Britannica 11th edition
+calcium,found in taxon,Isaria cicadae
+calcium,found in taxon,Montanoa frutescens
+calcium,found in taxon,Chamomilla recutita
+calcium,found in taxon,Montanoa grandiflora
+calcium,found in taxon,Montanoa leucantha
+calcium,subclass of,alkaline earth metal
+calcium,different from,serum calcium
+calcium,found in taxon,Artemia salina
+Hepatitis B vaccine,discoverer or inventor,Baruch Samuel Blumberg
+rac-miconazole,instance of,essential medicine
+Hepatitis B vaccine,vaccine for,hepatitis B
+calcium,found in taxon,Auxenochlorella pyrenoidosa
+Hepatitis B vaccine,brand,Twinrix
+Asparaginase,instance of,essential medicine
+Hepatitis B vaccine,brand,Recombivax HB
+Hepatitis B vaccine,vaccine for,hepatitis B
+activated carbon,has part(s),carbon
+Asparaginase,instance of,asparaginase
+anti-tetanus immunoglobulin,instance of,essential medicine
+Dextran 70,instance of,medication
+rac-miconazole,instance of,racemate
+activated carbon,color,black
+calcium,instance of,essential medicine
+activated carbon,said to be the same as,biochar
+heparin,has part(s),hydrogen
+heparin,significant drug interaction,tenoxicam
+chlorine,instance of,essential medicine
+Asparaginase,instance of,biopharmaceutical
+Dextran 70,instance of,essential medicine
+activated carbon,subclass of,material
+heparin,significant drug interaction,ibuprofen
+anti-tetanus immunoglobulin,instance of,medication
+Asparaginase,instance of,medication
+heparin,significant drug interaction,aspirin
+tuberculin,instance of,essential medicine
+Hepatitis B vaccine,subclass of,vaccine
+heparin,significant drug interaction,perindopril
+heparin,significant drug interaction,Diclofenac
+heparin,has part(s),sulfur
+heparin,significant drug interaction,abciximab
+heparin,medical condition treated,pulmonary embolism
+heparin,has part(s),carbon
+heparin,has part(s),oxygen
+heparin,medical condition treated,pulmonary embolism
+heparin,significant drug interaction,(RS)-ketoprofen
+Hepatitis B vaccine,instance of,essential medicine
+heparin,significant drug interaction,indomethacin
+heparin,significant drug interaction,piroxicam
+heparin,significant drug interaction,apixaban
+heparin,has part(s),nitrogen
+heparin,significant drug interaction,rivaroxaban
+heparin,significant drug interaction,celecoxib
+heparin,significant drug interaction,prasugrel
+heparin,significant drug interaction,prostacyclin
+heparin,significant drug interaction,parecoxib
+heparin,significant drug interaction,clopidogrel
+heparin,significant drug interaction,Streptokinase
+heparin,significant drug interaction,nabumetone
+heparin,significant drug interaction,meloxicam
+heparin,significant drug interaction,ticagrelor
+heparin,route of administration,subcutaneous injection
+heparin,significant drug interaction,tirofiban
+heparin,significant drug interaction,(+-)-flurbiprofen
+heparin,subclass of,anticoagulant
+heparin,significant drug interaction,naproxen
+chlorine,instance of,chemical element
+heparin,significant drug interaction,eptifibatide
+heparin,route of administration,intravenous injection
+heparin,significant drug interaction,tenecteplase
+heparin,significant drug interaction,urokinase
+nystatin,instance of,medication
+heparin,significant drug interaction,sulindac
+heparin,significant drug interaction,cangrelor
+heparin,significant drug interaction,aceclofenac
+heparin,significant drug interaction,dalteparin
+heparin,significant drug interaction,(RS)-etodolac
+influenza vaccine,vaccine for,influenza
+heparin,significant drug interaction,rac-warfarin
+heparin,significant drug interaction,(RS)-fenoprofen
+heparin,significant drug interaction,iloprost
+heparin,significant drug interaction,alteplase
+influenza vaccine,vaccine for,influenza
+calcium supplement,instance of,essential medicine
+calcium,instance of,chemical element
+activated carbon,instance of,essential medicine
+ivermectin,medical condition treated,rosacea
+Hib vaccine,vaccine for,Haemophilus influenzae
+ivermectin,medical condition treated,scabies
+Hib vaccine,vaccine for,Haemophilus influenzae
+ivermectin,medical condition treated,filariasis
+heparin,instance of,medication
+ivermectin,subject has role,antiparasitic
+ivermectin,medical condition treated,onchocerciasis
+ivermectin,medical condition treated,lice infestation
+ivermectin,medical condition treated,trichuriasis
+ivermectin,medical condition treated,filariasis
+heparin,instance of,essential medicine
+ivermectin,medical condition treated,strongyloidiasis
+ivermectin,subject has role,insecticide
+activated carbon,instance of,mixture
+ivermectin,medical condition treated,ascariasis
+ivermectin,medical condition treated,trichuriasis
+ivermectin,medical condition treated,elephantiasis
+ivermectin,medical condition treated,mansonelliasis
+nystatin,medical condition treated,candidiasis
+nystatin,medical condition treated,vulvovaginal candidiasis
+Hib vaccine,subclass of,conjugate vaccine
+ivermectin,medical condition treated,scabies
+ivermectin,active ingredient in,Stromectol
+nystatin,instance of,mixture
+nystatin,medical condition treated,candidiasis
+ivermectin,medical condition treated,strongyloidiasis
+nystatin,subject has role,ionophore
+nystatin,subject has role,antibiotic
+nystatin,instance of,essential medicine
+activated carbon,instance of,filter
+activated carbon,instance of,excipient
+ivermectin,has part(s),ivermectin b1b
+nystatin,medical condition treated,oral candidiasis
+nystatin,instance of,extract
+ivermectin,has part(s),ivermectin b1a
+nystatin,has part(s),nystatin a3
+nystatin,medical condition treated,cutaneous candidiasis
+saline solution,medical condition treated,dehydration
+bleomycin,activator of,Col3a1
+nystatin,subject has role,enzyme inhibitor
+nystatin,medical condition treated,chronic mucocutaneous candidiasis
+nystatin,subject has role,antifungal
+bleomycin,activator of,Col3a1
+influenza vaccine,subclass of,viral vaccines
+nystatin,has part(s),nystatin A1
+bleomycin,significant drug interaction,brentuximab vedotin
+bleomycin,medical condition treated,spindle cell sarcoma
+nystatin,has part(s),nystatin a2
+bleomycin,medical condition treated,"Hodgkin's lymphoma, mixed cellularity"
+bleomycin,medical condition treated,squamous cell carcinoma
+bleomycin,manufacturer,Pfizer
+bleomycin,medical condition treated,melanoma
+saline solution,has part(s),water
+bleomycin,subject has role,antineoplastic antibiotics
+activated carbon,instance of,medication
+bleomycin,medical condition treated,lymphosarcoma
+bleomycin,different from,bleomycin A2
+saline solution,has part(s),sodium chloride
+selenium disulfide,medical condition treated,seborrhoeic dermatitis
+bleomycin,medical condition treated,testicular cancer
+selenium disulfide,medical condition treated,scalp dermatosis
+digestive enzyme,molecular function,catalysis
+bleomycin,subject has role,antibiotic
+bleomycin,subject has role,DNA polymerase inhibitors
+selenium disulfide,medical condition treated,pityriasis versicolor
+capreomycin,medical condition treated,tuberculosis
+saline solution,subclass of,aqueous solution
+capreomycin,medical condition treated,tuberculosis
+saline solution,subclass of,saline water
+bleomycin,has part(s),bleomycin B2
+digestive enzyme,subject has role,digestion
+selenium disulfide,different from,selenium disulfide
+capreomycin,natural product of taxon,Streptomyces
+capreomycin,subject has role,antibiotic
+selenium disulfide,subject has role,dermatologic drug
+bleomycin,has part(s),bleomycin A2
+ivermectin,instance of,medication
+gentamicin,subject has role,antibiotic
+capreomycin,has part(s),capreomycin Ib
+capreomycin,has part(s),capreomycin Ia
+ivermectin,instance of,mixture
+gentamicin,medical condition treated,staphylococcal infection
+capreomycin,subject has role,protein synthesis inhibitor
+gentamicin,medical condition treated,sepsis
+gentamicin,medical condition treated,urinary tract infection
+gentamicin,subclass of,antibiotic
+antivenom,subclass of,antiserum
+influenza vaccine,instance of,essential medicine
+gentamicin,medical condition treated,infective endocarditis
+digestive enzyme,subclass of,enzyme
+ivermectin,instance of,essential medicine
+gentamicin,medical condition treated,bubonic plague
+saline solution,instance of,essential medicine
+gentamicin,medical condition treated,urinary tract infection
+antivenom,subclass of,protein
+gentamicin,medical condition treated,sepsis
+gentamicin,subject has role,protein synthesis inhibitor
+gentamicin,medical condition treated,upper respiratory tract infection
+gentamicin,medical condition treated,Pseudomonas infection
+gentamicin,medical condition treated,infectious bone disease
+Hib vaccine,instance of,essential medicine
+gentamicin,found in taxon,Micromonospora
+gentamicin,has part(s),sulfate
+gentamicin,physically interacts with,"Transient receptor potential cation channel, subfamily A, member 1"
+gentamicin,subclass of,aminoglycoside
+antivenom,different from,blood serum
+gentamicin,found in taxon,Swertia punicea
+hand sanitizer,has part(s),ethanol
+bleomycin,instance of,essential medicine
+combined oral contraceptive pill,discoverer or inventor,Ferdinand Peeters
+combined oral contraceptive pill,subject has role,essential medicine
+budesonide/formoterol,medical condition treated,ulcerative colitis
+bleomycin,instance of,medication
+combined oral contraceptive pill,discoverer or inventor,Ferdinand Peeters
+combined oral contraceptive pill,subject has role,essential medicine
+combined oral contraceptive pill,subclass of,oral contraceptive
+hand sanitizer,subclass of,disinfectant
+budesonide/formoterol,medical condition treated,ulcerative colitis
+budesonide/formoterol,medical condition treated,pneumonia
+combined oral contraceptive pill,facet of,women's health
+combined oral contraceptive pill,facet of,women's health
+diaphragm,subclass of,birth control
+selenium disulfide,instance of,mixture
+budesonide/formoterol,medical condition treated,pneumonia
+capreomycin,instance of,medication
+bleomycin,instance of,mixture
+budesonide/formoterol,medical condition treated,lung disease
+budesonide/formoterol,medical condition treated,microscopic colitis
+budesonide/formoterol,medical condition treated,respiratory disease
+digestive enzyme,instance of,essential medicine
+hand sanitizer,subclass of,local anti-infective agent
+budesonide/formoterol,has part(s),formoterol
+capreomycin,instance of,essential medicine
+capreomycin,instance of,mixture
+gentamicin,instance of,mixture
+HPV vaccine,vaccine for,human papillomavirus infection
+combined oral contraceptive pill,subclass of,oral contraceptive
+budesonide/formoterol,has part(s),budesonide
+HPV vaccine,vaccine for,anogenital venereal wart
+gentamicin,instance of,essential medicine
+selenium disulfide,instance of,essential medicine
+polio vaccine,vaccine for,poliomyelitis
+selenium disulfide,instance of,medication
+HPV vaccine,vaccine for,anogenital venereal wart
+polio vaccine,discoverer or inventor,Jonas Salk
+HPV vaccine,facet of,women's health
+peritoneal dialysis,health specialty,nephrology
+HPV vaccine,facet of,men's health
+antivenom,instance of,essential medicine
+nicotine replacement therapy,therapeutic area,smoking cessation
+polio vaccine,has part(s),Sabin vaccine
+polio vaccine,location of creation,University of Pittsburgh
+varicella vaccine,vaccine for,chickenpox
+oxygen therapy,uses,dioxygen
+varicella vaccine,vaccine for,Human herpesvirus 3
+varicella vaccine,vaccine for,herpes zoster
+varicella vaccine,vaccine for,chickenpox
+gentamicin,instance of,extract
+varicella vaccine,different from,smallpox vaccine
+varicella vaccine,vaccine for,herpes zoster
+varicella vaccine,developer,Michiaki Takahashi
+polio vaccine,subclass of,vaccine
+HPV vaccine,subclass of,vaccine
+hand sanitizer,instance of,essential medicine
+peritoneal dialysis,subclass of,renal dialysis
+emtricitabine/tenofovir/efavirenz,has part(s),emtricitabine
+emtricitabine/tenofovir/efavirenz,has part(s),efavirenz
+emtricitabine/tenofovir/efavirenz,has part(s),tenofovir disoproxil
+combined oral contraceptive pill,instance of,essential medicine
+oxygen therapy,subclass of,first aid
+varicella vaccine,subclass of,attenuated vaccine
+Ringer's lactate solution,has part(s),Ringer's solution
+diaphragm,instance of,essential medicine
+Ringer's lactate solution,has part(s),L-lactic acid
+activated charcoal,made from material,activated carbon
+gentamicin,instance of,medication
+HPV vaccine,instance of,essential medicine
+activated charcoal,subject has role,antidote
+caffeine citrate,has part(s),citric acid
+budesonide/formoterol,instance of,chemical substance
+budesonide/formoterol,instance of,mixture
+caffeine citrate,has part(s),caffeine
+polio vaccine,instance of,essential medicine
+Rho(D) immune globulin,discoverer or inventor,John G. Gorman
+combined oral contraceptive pill,instance of,essential medicine
+budesonide/formoterol,instance of,medication
+Rho(D) immune globulin,discoverer or inventor,John G. Gorman
+oxygen therapy,instance of,medical treatment
+nicotine replacement therapy,instance of,essential medicine
+caffeine citrate,subject has role,stimulant
+emtricitabine/tenofovir/efavirenz,instance of,medication
+oxygen therapy,instance of,essential medicine
+artemether/lumefantrine,medical condition treated,malaria
+peritoneal dialysis,instance of,essential medicine
+hepatitis A vaccine,vaccine for,hepatitis A
+hepatitis A vaccine,route of administration,intramuscular injection
+regular insulin,instance of,drug
+artemether/lumefantrine,medical condition treated,malaria
+hepatitis A vaccine,vaccine for,hepatitis A
+Rho(D) immune globulin,subject has role,immunologic factor
+regular insulin,instance of,essential medicine
+rabies vaccine,vaccine for,rabies
+emtricitabine/tenofovir/efavirenz,instance of,chemical substance
+budesonide/formoterol,instance of,essential medicine
+hepatitis A vaccine,brand,Twinrix
+Rho(D) immune globulin,subject has role,immunologic factor
+rabies vaccine,vaccine for,rabies virus
+Japanese encephalitis vaccine,vaccine for,Japanese encephalitis
+varicella vaccine,instance of,essential medicine
+rabies vaccine,vaccine for,rabies
+artemether/lumefantrine,has part(s),lumefantrine
+artemether/lumefantrine,has part(s),artemether
+rotavirus vaccine,vaccine for,diarrhea
+rotavirus vaccine,vaccine for,diarrhea
+emtricitabine/tenofovir/efavirenz,instance of,mixture
+rabies vaccine,subclass of,vaccine
+diphtheria vaccine,vaccine for,diphtheria
+Ringer's lactate solution,instance of,essential medicine
+ethiodized oil,has use,suspension
+Ringer's lactate solution,instance of,mixture
+emtricitabine/tenofovir/efavirenz,instance of,essential medicine
+ethiodized oil,has use,medication
+rotavirus vaccine,vaccine for,Rotavirus
+ethiodized oil,route of administration,intramuscular injection
+ethiodized oil,route of administration,oral administration
+Rho(D) immune globulin,instance of,essential medicine
+Japanese encephalitis vaccine,subclass of,vaccine
+ethiodized oil,medical condition treated,iodine deficiency
+abacavir/lamivudine,has part(s),abacavir
+caffeine citrate,instance of,essential medicine
+ethiodized oil,subject has role,antineoplastic
+abacavir/lamivudine,has part(s),lamivudine
+ethiodized oil,different from,iodine in medicine
+ethiodized oil,has use,transarterial chemoembolization
+diphtheria vaccine,subclass of,bacterial vaccine
+ethiodized oil,has use,radiocontrast agent
+rotavirus vaccine,subclass of,viral vaccines
+activated charcoal,instance of,essential medicine
+ethiodized oil,subject has role,contrast agent
+ethiodized oil,subclass of,vegetable oil
+levodopa/carbidopa,medical condition treated,Parkinson's disease
+levodopa/carbidopa,medical condition treated,parkinsonian syndrome
+Rho(D) immune globulin,instance of,essential medicine
+lamivudine/zidovudine,medical condition treated,HIV/AIDS
+tetanus vaccine,vaccine for,tetanus
+lamivudine/zidovudine,medical condition treated,HIV/AIDS
+caffeine citrate,instance of,mixture
+activated charcoal,instance of,medication
+tetanus vaccine,subclass of,vaccine
+levodopa/carbidopa,has part(s),levodopa
+levodopa/carbidopa,has part(s),(S)-(−)-carbidopa monohydrate
+artemether/lumefantrine,instance of,combination drug
+artemether/lumefantrine,instance of,mixture
+measles vaccine,vaccine for,measles
+artemether/lumefantrine,instance of,essential medicine
+measles vaccine,vaccine for,measles
+Japanese encephalitis vaccine,instance of,essential medicine
+mumps vaccine,vaccine for,mumps
+lamivudine/zidovudine,has part(s),zidovudine
+tetanus vaccine,part of,DPT vaccine
+rabies vaccine,instance of,essential medicine
+meningococcal vaccine,vaccine for,meningitis
+rotavirus vaccine,instance of,essential medicine
+meningococcal vaccine,route of administration,subcutaneous injection
+meningococcal vaccine,vaccine for,meningococcal disease
+mumps vaccine,vaccine for,mumps
+meningococcal vaccine,route of administration,intramuscular injection
+pertussis vaccine,vaccine for,pertussis
+meningococcal vaccine,vaccine for,meningitis
+lamivudine/zidovudine,has part(s),lamivudine
+pertussis vaccine,vaccine for,pertussis
+measles vaccine,subclass of,vaccine
+mumps vaccine,subclass of,viral vaccines
+typhoid vaccine,vaccine for,typhoid fever
+rubella vaccine,vaccine for,rubella
+abacavir/lamivudine,instance of,essential medicine
+yellow fever vaccine,medical condition treated,yellow fever
+rubella vaccine,vaccine for,rubella
+ethiodized oil,instance of,essential medicine
+abacavir/lamivudine,instance of,mixture
+abacavir/lamivudine,instance of,medication
+levodopa/carbidopa,instance of,essential medicine
+yellow fever vaccine,vaccine for,yellow fever
+pneumococcal vaccine,vaccine for,pneumococcal infection
+hepatitis A vaccine,instance of,essential medicine
+levodopa/carbidopa,instance of,medication
+diphtheria vaccine,instance of,essential medicine
+diphtheria antitoxin,medical condition treated,diphtheria
+rubella vaccine,subclass of,vaccine
+copper IUD,subject has role,essential medicine
+levodopa/carbidopa,instance of,mixture
+pertussis vaccine,subclass of,bacterial vaccine
+copper IUD,made from material,copper
+levodopa/carbidopa,instance of,combination drug
+meningococcal vaccine,subclass of,bacterial vaccine
+lamivudine/zidovudine,instance of,essential medicine
+copper IUD,facet of,women's health
+lamivudine/zidovudine,instance of,chemical substance
+diphtheria antitoxin,subclass of,antiserum
+yellow fever vaccine,subclass of,viral vaccines
+ethinylestradiol/norethisterone,has part(s),ethinylestradiol
+copper IUD,subclass of,emergency contraception
+sofosbuvir/velpatasvir,medical condition treated,hepatitis C
+copper IUD,subclass of,emergency contraception
+sofosbuvir/velpatasvir,medical condition treated,hepatitis C
+ethinylestradiol/norethisterone,has part(s),norethindrone
+tetanus vaccine,instance of,essential medicine
+lamivudine/zidovudine,instance of,medication
+rubella vaccine,instance of,essential medicine
+pertussis vaccine,instance of,essential medicine
+sofosbuvir/velpatasvir,has active ingredient,sofosbuvir
+sofosbuvir/velpatasvir,has active ingredient,velpatasvir
+yellow fever vaccine,instance of,essential medicine
+copper IUD,subclass of,intrauterine device
+measles vaccine,instance of,essential medicine
+sofosbuvir/velpatasvir,has part(s),sofosbuvir
+sofosbuvir/velpatasvir,has part(s),velpatasvir
+typhoid vaccine,instance of,essential medicine
+ethinylestradiol/norethisterone,subclass of,Ethinyl estradiol mixture with ethisterone
+mumps vaccine,instance of,essential medicine
+whole blood,instance of,essential medicine
+lamivudine/zidovudine,instance of,mixture
+artesunate/mefloquine,has part(s),artesunate
+pneumococcal vaccine,instance of,essential medicine
+diphtheria antitoxin,instance of,essential medicine
+artesunate/mefloquine,has part(s),(-)-mefloquine
+meningococcal vaccine,instance of,essential medicine
+sofosbuvir/velpatasvir,instance of,chemical substance
+copper IUD,instance of,essential medicine
+sofosbuvir/velpatasvir,instance of,mixture
+ethinylestradiol/norethisterone,instance of,combination drug
+sofosbuvir/velpatasvir,instance of,medication
+ethinylestradiol/norethisterone,instance of,essential medicine
+artesunate/mefloquine,instance of,medication
+testosterone,instance of,essential medicine
+diphtheria antitoxin,instance of,medication
+sofosbuvir/velpatasvir,instance of,essential medicine
+platelet transfusion,instance of,essential medicine
+artesunate/mefloquine,instance of,mixture
+testosterone,instance of,medication
+artesunate/mefloquine,instance of,essential medicine
+artemether/lumefantrine,medical condition treated,malaria
+inosine pranobex,subject has role,antiviral agent
+mometasone/formoterol,has part(s),formoterol
+artemether/lumefantrine,has part(s),lumefantrine
+ambuphylline,subject has role,bronchodilator
+inosine pranobex,subject has role,immunologic adjuvant
+artemether/lumefantrine,medical condition treated,malaria
+artemether/lumefantrine,has part(s),artemether
+inosine pranobex,has part(s),acedoben
+mometasone/formoterol,has part(s),mometasone
+ambuphylline,subject has role,vasodilator agent
+inosine pranobex,has part(s),dimepranol
+ambuphylline,has part(s),aminomethylpropanol
+bupropion/naltrexone,has part(s),bupropion
+bupropion/naltrexone,has part(s),naltrexone
+acetylsalicylic acid/dipyridamole,has part(s),aspirin
+levodopa/carbidopa,medical condition treated,Parkinson's disease
+inosine pranobex,has part(s),inosine
+ambuphylline,has part(s),theophylline
+acetylsalicylic acid/dipyridamole,has part(s),dipyridamole
+ethinylestradiol/etonogestrel,has part(s),ethinylestradiol
+levodopa/carbidopa,medical condition treated,parkinsonian syndrome
+acetylsalicylic acid/dipyridamole,subclass of,chemical compound
+levodopa/carbidopa,has part(s),(S)-(−)-carbidopa monohydrate
+dorzolamide/timolol,medical condition treated,glaucoma
+levodopa/carbidopa,has part(s),levodopa
+dorzolamide/timolol,has part(s),(S)-(−)-timolol
+dorzolamide/timolol,has part(s),dorzolamide
+dorzolamide/timolol,medical condition treated,ocular hypertension
+ezetimibe/simvastatin,has part(s),ezetimibe
+ethinylestradiol/etonogestrel,has part(s),etonogestrel
+tobramycin/dexamethasone,has active ingredient,dexamethasone
+tobramycin/dexamethasone,has active ingredient,tobramycin
+ezetimibe/simvastatin,has part(s),simvastatin
+acetylsalicylic acid/dipyridamole,instance of,combination drug
+artemether/lumefantrine,instance of,essential medicine
+ethinylestradiol/norethisterone,has part(s),ethinylestradiol
+ethinylestradiol/norethisterone,has part(s),norethindrone
+bupropion/naltrexone,instance of,combination drug
+ledipasvir/sofosbuvir,medical condition treated,hepatitis
+Azor,instance of,combination drug
+bupropion/naltrexone,instance of,chemical substance
+inosine pranobex,instance of,combination drug
+bupropion/naltrexone,instance of,mixture
+acetylsalicylic acid/dipyridamole,instance of,medication
+ethinylestradiol/norethisterone,subclass of,Ethinyl estradiol mixture with ethisterone
+ledipasvir/sofosbuvir,medical condition treated,liver cirrhosis
+ledipasvir/sofosbuvir,medical condition treated,liver cirrhosis
+artemether/lumefantrine,instance of,mixture
+artemether/lumefantrine,instance of,combination drug
+levodopa/carbidopa,instance of,essential medicine
+ledipasvir/sofosbuvir,medical condition treated,hepatitis C
+inosine pranobex,instance of,mixture
+ledipasvir/sofosbuvir,medical condition treated,hepatitis C
+ethinylestradiol/etonogestrel,instance of,medication
+ledipasvir/sofosbuvir,active ingredient in,Harvoni
+dorzolamide/timolol,instance of,mixture
+dorzolamide/timolol,instance of,combination drug
+ledipasvir/sofosbuvir,has part(s),sofosbuvir
+tobramycin/dexamethasone,instance of,combination drug
+pamabrom,medical condition treated,premenstrual syndrome
+tobramycin/dexamethasone,instance of,mixture
+mometasone/formoterol,instance of,combination drug
+pamabrom,medical condition treated,premenstrual syndrome
+thiamphenicol glycinate acetylcysteine,has part(s),thiamphenicol glycinate
+carbidopa / levodopa / entacapone,medical condition treated,Parkinson's disease
+ambuphylline,instance of,mixture
+thiamphenicol glycinate acetylcysteine,subclass of,chemical compound
+dorzolamide/timolol,instance of,chemical substance
+ethinylestradiol/norethisterone,instance of,combination drug
+pamabrom,has part(s),aminomethylpropanol
+ambuphylline,instance of,combination drug
+levodopa/carbidopa,instance of,medication
+levodopa/carbidopa,instance of,combination drug
+thiamphenicol glycinate acetylcysteine,has part(s),acetylcysteine
+ledipasvir/sofosbuvir,has part(s),ledipasvir
+pamabrom,has part(s),bromotheophylline
+ethinylestradiol/etonogestrel,instance of,combination drug
+levodopa/carbidopa,instance of,mixture
+ethinylestradiol/norethisterone,instance of,essential medicine
+dorzolamide/timolol,instance of,medication
+carbidopa / levodopa / entacapone,has part(s),entacapone
+Tegafur/gimeracil/oteracil,has part(s),(RS)-tegafur
+carbidopa / levodopa / entacapone,has part(s),levodopa
+carbidopa / levodopa / entacapone,has part(s),(S)-(−)-carbidopa monohydrate
+Tegafur/gimeracil/oteracil,has part(s),oteracil
+Tegafur/gimeracil/oteracil,has part(s),gimeracil
+Tegafur/gimeracil/oteracil,subject has role,antineoplastic antimetabolite
+ezetimibe/simvastatin,instance of,combination drug
+ledipasvir/sofosbuvir,instance of,medication
+pamabrom,instance of,mixture
+ledipasvir/sofosbuvir,instance of,combination drug
+pamabrom,instance of,combination drug
+thiamphenicol glycinate acetylcysteine,instance of,combination drug
+Oxycodone/paracetamol,instance of,combination drug
+carbidopa / levodopa / entacapone,instance of,chemical substance
+Tegafur/gimeracil/oteracil,instance of,combination drug
+carbidopa / levodopa / entacapone,instance of,medication
+carbidopa / levodopa / entacapone,instance of,combination drug
+carbidopa / levodopa / entacapone,instance of,mixture

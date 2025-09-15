@@ -1,7 +1,7 @@
 # @package _global_
 
 defaults:
-  - override /model: Llama-3.1-8B-Instruct
+  - override /model: Llama-3.1-8B-Instruct #Phi-3.5-mini-instruct #gemma-7b-it #Llama-3.1-8B-Instruct
   - override /trainer: finetune
   - override /data/datasets@data.train: PopQA_full #_full
   - override /eval: popqa
@@ -17,7 +17,7 @@ trainer:
   until: ["<|eot_id|>", "\n"]
 
   args:
-    learning_rate: 2e-4
+    learning_rate: 2e-4 #2e-4
     num_train_epochs: 5 #2
     # warmup_epochs: 0.2
     # weight_decay: 0.01
@@ -48,4 +48,4 @@ eval:
     overwrite: true
 
 
-task_name: popqa_Llama-3.1-8B-Instruct_full
+task_name: popqa_llama3-instruct #popqa_gemma-7b-it #popqa_Llama-3.1-8B-Instruct_full

@@ -76,6 +76,7 @@ class Evaluator:
         # Load existing results from file if any.
         logs = self.load_logs_from_file(logs_file_path) if not overwrite else {}
 
+        # print("DEBUG_2 HERE\n\n", self)
         logger.info(f"***** Running {self.name} evaluation suite *****")
         logger.info(f"Fine-grained evaluations will be saved to: {logs_file_path}")
         logger.info(

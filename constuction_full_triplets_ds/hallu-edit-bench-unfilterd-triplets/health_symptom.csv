@@ -1,0 +1,711 @@
+subjectLabel,relation,objectLabel
+anxiety,possible treatment,cognitive behavioral therapy
+anxiety,medical examination,personality test
+anxiety,health specialty,psychotherapy
+anxiety,medical examination,psychological test
+anxiety,symptoms and signs,derealization
+anxiety,symptoms and signs,disorientation
+anxiety,has effect,nausea
+anxiety,symptoms and signs,tachycardia
+anxiety,symptoms and signs,depersonalization
+anxiety,facet of,women's health
+anxiety,different from,anxiety disorder
+anxiety,has cause,hazard
+anxiety,health specialty,clinical psychology
+anxiety,health specialty,psychiatry
+anxiety,has cause,worry
+anxiety,has effect,insomnia
+anxiety,measurement scale,Hamilton Anxiety Rating Scale
+anxiety,has effect,insomnia
+anxiety,has characteristic,fear
+anxiety,symptoms and signs,vomiting
+anxiety,possible treatment,psychodynamic psychotherapy
+anxiety,has effect,palpitation
+anxiety,facet of,psychology
+anxiety,symptoms and signs,nausea
+anxiety,has effect,palpitation
+anxiety,different from,phobia
+anxiety,has effect,psychological stress
+anxiety,has contributing factor,uncertainty
+anxiety,symptoms and signs,vertigo
+anxiety,drug or therapy used for treatment,zolpidem
+anxiety,drug or therapy used for treatment,olanzapine
+anxiety,drug or therapy used for treatment,diazepam
+anxiety,different from,Disturbia
+anxiety,symptoms and signs,vertigo
+anxiety,drug or therapy used for treatment,alprazolam
+anxiety,drug or therapy used for treatment,quetiapine
+anxiety,has characteristic,nervousness
+anxiety,drug or therapy used for treatment,sertraline
+anxiety,has characteristic,worry
+anxiety,drug or therapy used for treatment,pregabalin
+anxiety,subclass of,mental disorder
+anxiety,drug or therapy used for treatment,(RS)-citalopram
+anxiety,drug or therapy used for treatment,clonazepam
+anxiety,drug or therapy used for treatment,vilazodone
+anxiety,drug or therapy used for treatment,buspirone
+anxiety,drug or therapy used for treatment,haloperidol
+anxiety,drug or therapy used for treatment,lamotrigine
+anxiety,drug or therapy used for treatment,paroxetine
+anxiety,drug or therapy used for treatment,risperidone
+anxiety,drug or therapy used for treatment,gabapentin
+anxiety,drug or therapy used for treatment,ziprasidone
+anxiety,drug or therapy used for treatment,lurasidone
+anxiety,drug or therapy used for treatment,aripiprazole
+anxiety,drug or therapy used for treatment,(S)-duloxetine
+anxiety,drug or therapy used for treatment,mirtazapine
+anxiety,drug or therapy used for treatment,propranolol
+anxiety,drug or therapy used for treatment,lorazepam
+anxiety,facet of,health risk
+anxiety,drug or therapy used for treatment,atomoxetine
+anxiety,drug or therapy used for treatment,trazodone
+anxiety,drug or therapy used for treatment,venlafaxine
+anxiety,drug or therapy used for treatment,(RS)-hydroxyzine
+tunnel vision,afflicts,peripheral vision
+anxiety,drug or therapy used for treatment,fluoxetine
+anxiety,drug or therapy used for treatment,vortioxetine
+anxiety,drug or therapy used for treatment,bupropion
+anxiety,drug or therapy used for treatment,escitalopram
+tunnel vision,health specialty,ophthalmology
+anxiety,drug or therapy used for treatment,desvenlafaxine
+anxiety,drug or therapy used for treatment,brexpiprazole
+fatigue,has cause,malnutrition
+fatigue,has cause,multiple sclerosis
+fatigue,has cause,diabetes
+fatigue,has cause,malnutrition
+fatigue,has cause,systemic lupus erythematosus
+fatigue,has cause,systemic lupus erythematosus
+fatigue,different from,laziness
+fatigue,has cause,diabetes
+fatigue,has cause,malnutrition
+fatigue,has cause,sleep disorder
+fatigue,has cause,occupational burnout
+fatigue,has cause,major depressive disorder
+fatigue,has cause,chronic fatigue syndrome
+fatigue,has cause,fibromyalgia
+fatigue,partially coincident with,somnolence
+fatigue,has cause,chronic fatigue syndrome
+fatigue,has cause,sleep apnea
+fatigue,drug or therapy used for treatment,modafinil
+fatigue,has cause,major depressive disorder
+fatigue,different from,occupational burnout
+fatigue,different from,fatigue
+tunnel vision,subclass of,anopsia
+fatigue,medical examination,blood test
+fatigue,drug or therapy used for treatment,ginseng
+fatigue,health specialty,primary care
+fatigue,medical examination,physical examination
+fatigue,described by source,Encyclopædia Britannica 11th edition
+fatigue,has cause,insomnia
+fatigue,has cause,somatoform disorder
+fatigue,has cause,insomnia
+bleeding gums,anatomical location,gums
+fatigue,medical examination,psychological test
+bleeding gums,health specialty,oral and maxillofacial surgery
+fatigue,different from,somnolence
+fatigue,has cause,fibromyalgia
+gummatous syphilis,health specialty,infectious diseases
+fatigue,different from,myalgic encephalomyelitis
+fatigue,has cause,psychological stress
+fatigue,different from,fatigue
+anxiety,instance of,symptom
+fatigue,subclass of,clinical sign
+red eye,afflicts,conjunctiva
+red eye,health specialty,ophthalmology
+bone fracture,has cause,stress fracture
+bone fracture,drug or therapy used for treatment,denosumab
+bone fracture,described by source,Brockhaus and Efron Encyclopedic Dictionary
+bone fracture,has cause,injury
+bleeding gums,subclass of,gingival disease
+bone fracture,drug or therapy used for treatment,teriparatide
+bone fracture,medical examination,medical radiography
+bone fracture,health specialty,osteology
+bone fracture,has effect,bone pain
+gummatous syphilis,subclass of,tertiary syphilis
+bone fracture,subclass of,major trauma
+myoclonus,health specialty,neurology
+bleeding gums,subclass of,oral hemorrhage
+bone fracture,subclass of,injury
+myoclonus,symptoms and signs,clonus
+hostility,said to be the same as,aggression
+bone fracture,subclass of,bone disease
+anxiety,instance of,symptom or sign
+desquamation,has effect,dander
+Knee buckling,subclass of,knee disorder
+Knee buckling,subclass of,joint instability
+tunnel vision,instance of,symptom
+hostility,subclass of,aggression
+desquamation,subclass of,skin and integumentary tissue symptom
+bleeding gums,instance of,disease
+bleeding gums,instance of,symptom
+fatigue,instance of,symptom or sign
+bone fracture,instance of,disease
+distraction,has cause,daydream
+desquamation,subclass of,change in skin texture
+fatigue,instance of,symptom
+hostility,subclass of,anger
+distraction,has contributing factor,boredom
+distraction,subclass of,process
+bone fracture,instance of,symptom or sign
+myoclonus,subclass of,movement disorders
+bleeding gums,instance of,disease
+distraction,has contributing factor,fatigue
+distraction,has cause,stimulus
+distraction,facet of,operational risk
+red eye,instance of,clinical sign
+distraction,does not have characteristic,intention
+Webbed neck,health specialty,medical genetics
+angina pectoris,drug or therapy used for treatment,pentaerythritol tetranitrate
+distraction,described by source,Encyclopædia Britannica 11th edition
+angina pectoris,drug or therapy used for treatment,(RS)-metoprolol
+angina pectoris,drug or therapy used for treatment,ubidecarenone
+Knee buckling,instance of,symptom
+angina pectoris,drug or therapy used for treatment,ubidecarenone
+myoclonus,instance of,symptom
+red eye,instance of,symptom or sign
+tunnel vision,instance of,visual impairment
+gummatous syphilis,instance of,symptom
+angina pectoris,health specialty,cardiology
+angina pectoris,drug or therapy used for treatment,verapamil
+angina pectoris,drug or therapy used for treatment,amlodipine
+angina pectoris,drug or therapy used for treatment,isradipine
+angina pectoris,drug or therapy used for treatment,nifedipine
+bone fracture,instance of,disease
+angina pectoris,drug or therapy used for treatment,atenolol
+distraction,subclass of,failure
+Webbed neck,subclass of,rare head and neck malformation
+red eye,instance of,symptom
+distraction,described by source,Lean Logic
+angina pectoris,drug or therapy used for treatment,papaverine
+angina pectoris,drug or therapy used for treatment,n-pentyl nitrite
+distraction,subclass of,change
+angina pectoris,drug or therapy used for treatment,erythrityl tetranitrate
+angina pectoris,drug or therapy used for treatment,carvedilol
+angina pectoris,drug or therapy used for treatment,esmolol
+angina pectoris,drug or therapy used for treatment,bisoprolol
+angina pectoris,drug or therapy used for treatment,(S)-(−)-timolol
+angina pectoris,drug or therapy used for treatment,nadolol
+angina pectoris,drug or therapy used for treatment,propranolol
+angina pectoris,drug or therapy used for treatment,acebutolol
+angina pectoris,drug or therapy used for treatment,labetalol
+angina pectoris,drug or therapy used for treatment,pindolol
+bone fracture,instance of,symptom
+angina pectoris,drug or therapy used for treatment,nicardipine
+angina pectoris,drug or therapy used for treatment,(RS)-nisoldipine
+angina pectoris,drug or therapy used for treatment,isosorbide
+hostility,instance of,behavior
+angina pectoris,drug or therapy used for treatment,diltiazem
+angina pectoris,drug or therapy used for treatment,bepridil
+angina pectoris,drug or therapy used for treatment,felodipine
+sepsis,risk factor,infection
+sepsis,drug or therapy used for treatment,drotrecogin alfa
+sepsis,drug or therapy used for treatment,amikacin
+sepsis,risk factor,infection
+angina pectoris,drug or therapy used for treatment,sulfinpyrazone
+angina pectoris,drug or therapy used for treatment,mibefradil
+desquamation,instance of,symptom
+sepsis,drug or therapy used for treatment,amikacin
+sepsis,drug or therapy used for treatment,oxacillin
+hostility,instance of,symptom
+sepsis,drug or therapy used for treatment,ceftriaxone
+sepsis,drug or therapy used for treatment,aztreonam
+sepsis,drug or therapy used for treatment,cefotaxime
+angina pectoris,described by source,Great medical encyclopedia
+bleeding gums,instance of,symptom or sign
+sepsis,drug or therapy used for treatment,aztreonam
+sepsis,drug or therapy used for treatment,ertapenem
+sepsis,drug or therapy used for treatment,cefotaxime
+angina pectoris,described by source,Encyclopædia Britannica 11th edition
+angina pectoris,subclass of,chest pain
+sepsis,described by source,Brockhaus and Efron Encyclopedic Dictionary
+sepsis,drug or therapy used for treatment,ceftizoxime
+sepsis,drug or therapy used for treatment,drotrecogin alfa
+sepsis,drug or therapy used for treatment,gentamicin
+sepsis,drug or therapy used for treatment,imipen
+sepsis,drug or therapy used for treatment,gentamicin
+sepsis,drug or therapy used for treatment,piperacillin
+sepsis,drug or therapy used for treatment,imipen
+sepsis,drug or therapy used for treatment,ceftazidime
+sepsis,drug or therapy used for treatment,ceftriaxone
+angina pectoris,drug or therapy used for treatment,penbutolol
+sepsis,drug or therapy used for treatment,ceftazidime
+myoclonus,instance of,symptom or sign
+sepsis,drug or therapy used for treatment,piperacillin
+sepsis,described by source,Encyclopædia Britannica 11th edition
+sepsis,drug or therapy used for treatment,nafcillin
+sepsis,drug or therapy used for treatment,nafcillin
+sepsis,drug or therapy used for treatment,cefepime
+sepsis,health specialty,infectious diseases
+sepsis,drug or therapy used for treatment,oxacillin
+sepsis,drug or therapy used for treatment,cefoxitin
+sepsis,drug or therapy used for treatment,cefotetan
+sepsis,drug or therapy used for treatment,mezlocillin
+sepsis,drug or therapy used for treatment,ceftizoxime
+sepsis,drug or therapy used for treatment,mezlocillin
+sepsis,drug or therapy used for treatment,cefotetan
+sepsis,health specialty,infectious diseases
+sepsis,drug or therapy used for treatment,ticarcillin
+sepsis,drug or therapy used for treatment,ertapenem
+sepsis,drug or therapy used for treatment,cefepime
+sepsis,drug or therapy used for treatment,ticarcillin
+sepsis,described by source,Brockhaus and Efron Encyclopedic Dictionary
+sepsis,drug or therapy used for treatment,cefoxitin
+bulimia nervosa,symptoms and signs,vomiting
+sepsis,described by source,Encyclopædia Britannica 11th edition
+sepsis,different from,Sepsis
+bulimia nervosa,possible treatment,psychomotor education
+bulimia nervosa,symptoms and signs,vomiting
+bulimia nervosa,said to be the same as,polyphagia
+angina pectoris,instance of,clinical finding
+bulimia nervosa,possible treatment,cognitive behavioral therapy
+sepsis,different from,Sepsis
+distraction,instance of,symptom
+desquamation,instance of,symptom or sign
+bulimia nervosa,possible treatment,psychomotor education
+bulimia nervosa,possible treatment,cognitive behavioral therapy
+bulimia nervosa,said to be the same as,polyphagia
+bulimia nervosa,drug or therapy used for treatment,maprotiline
+bulimia nervosa,health specialty,psychiatry
+bulimia nervosa,drug or therapy used for treatment,(RS)-fenfluramine
+Webbed neck,instance of,symptom
+bulimia nervosa,drug or therapy used for treatment,maprotiline
+bulimia nervosa,drug or therapy used for treatment,(RS)-fenfluramine
+bulimia nervosa,genetic association,MSRA
+bulimia nervosa,genetic association,DAB1
+distress,subclass of,psychological stress
+cognitive deficit,subclass of,cognitive disorder
+bulimia nervosa,drug or therapy used for treatment,fluoxetine
+bulimia nervosa,genetic association,MSRA
+bulimia nervosa,has characteristic,overeating
+angina pectoris,instance of,symptom
+bulimia nervosa,genetic association,DAB1
+distress,subclass of,psychological pain
+bulimia nervosa,subclass of,eating disorder
+bulimia nervosa,drug or therapy used for treatment,fluoxetine
+bulimia nervosa,health specialty,psychiatry
+bulimia nervosa,has characteristic,social stigma of obesity
+bulimia nervosa,subclass of,polyphagia
+bulimia nervosa,has characteristic,social stigma of obesity
+bulimia nervosa,genetic association,PERP
+bulimia nervosa,subclass of,eating disorder
+bulimia nervosa,genetic association,NKAIN3
+bulimia nervosa,genetic association,COL23A1
+bulimia nervosa,subclass of,polyphagia
+bulimia nervosa,genetic association,PERP
+bulimia nervosa,genetic association,COL23A1
+bulimia nervosa,has characteristic,overeating
+bulimia nervosa,genetic association,NKAIN3
+angina pectoris,instance of,symptom or sign
+dyspnea,part of,respiratory signs and symptoms
+dyspnea,part of,respiratory signs and symptoms
+heat exhaustion,partially coincident with,heat stroke
+metal poisoning,has effect,cancer
+heat exhaustion,has cause,hot
+metal poisoning,has effect,miscarriage
+metal poisoning,health specialty,neurology
+dyspnea,subclass of,abnormal breathing
+metal poisoning,has cause,metal element
+metal poisoning,has effect,miscarriage
+dyspnea,subclass of,abnormal breathing
+sepsis,symptoms and signs,chills
+bulimia nervosa,instance of,symptom
+sepsis,symptoms and signs,chills
+distress,instance of,symptom
+sepsis,symptoms and signs,chills
+sepsis,symptoms and signs,chills
+dyspnea,health specialty,pulmonology
+dyspnea,drug or therapy used for treatment,morphine
+metal poisoning,subclass of,intoxication
+sepsis,subclass of,systemic disease
+dyspnea,health specialty,pulmonology
+cognitive deficit,instance of,symptom
+dyspnea,drug or therapy used for treatment,morphine
+hypomania,health specialty,psychiatry
+heat exhaustion,subclass of,heat illness
+sepsis,subclass of,systemic disease
+hypomania,health specialty,psychiatry
+bulimia nervosa,instance of,symptom
+bulimia nervosa,instance of,eating disorder
+bulimia nervosa,instance of,eating disorder
+dyspnea,instance of,symptom
+hypomania,subclass of,mood disorder
+dyspnea,instance of,symptom
+urination disorder,drug or therapy used for treatment,mirabegron
+dyspnea,instance of,clinical sign
+dyspnea,instance of,symptom or sign
+sepsis,instance of,symptom
+hypomania,subclass of,mood disorder
+urination disorder,anatomical location,urinary system
+bulimia nervosa,instance of,symptom or sign
+hypomania,health specialty,psychology
+dyspnea,instance of,symptom or sign
+hypomania,health specialty,psychology
+bulimia nervosa,instance of,symptom or sign
+heat exhaustion,instance of,symptom
+sepsis,instance of,symptom
+dyspnea,instance of,clinical sign
+agnosia,health specialty,neuropsychology
+metal poisoning,instance of,symptom
+nosebleed,described by source,Encyclopædia Britannica 11th edition
+sepsis,instance of,disease
+urination disorder,subclass of,urinary system disease
+sepsis,instance of,disease
+gastroesophageal reflux,instance of,symptom
+agnosia,health specialty,neurology
+sepsis,instance of,symptom or sign
+sepsis,instance of,disease
+nosebleed,subclass of,bleeding
+nosebleed,described by source,Encyclopædia Britannica 11th edition
+agnosia,health specialty,psychiatry
+sepsis,instance of,symptom or sign
+eye pain,subclass of,pain
+agnosia,health specialty,neuropsychiatry
+hypomania,instance of,symptom or sign
+dysphoria,subclass of,mental disorder
+dysphoria,opposite of,euphoria
+nosebleed,subclass of,bleeding
+hypomania,instance of,symptom
+dysphoria,facet of,health risk
+urination disorder,instance of,symptom
+sepsis,instance of,disease
+dysphoria,said to be the same as,sadness
+dysphoria,different from,body dysmorphic disorder
+agnosia,subclass of,disease
+dysphoria,subclass of,condition
+agnosia,subclass of,disease
+dysphoria,different from,body dysmorphic disorder
+hypomania,instance of,disease
+hypomania,instance of,disease
+agnosia,subclass of,communication disorder
+hypomania,instance of,disease
+agnosia,subclass of,perceptual disorders
+apraxia,health specialty,occupational therapy
+apraxia,subclass of,disease
+apraxia,subclass of,disease
+apraxia,described by source,Brockhaus and Efron Encyclopedic Dictionary
+apraxia,health specialty,psychomotor education
+apraxia,described by source,Brockhaus and Efron Encyclopedic Dictionary
+necrolytic migratory erythema,health specialty,dermatology
+hypomania,instance of,disease
+hypomania,instance of,symptom
+apraxia,health specialty,psychomotor education
+pyuria,health specialty,urology
+apraxia,health specialty,occupational therapy
+pyuria,different from,periodontitis
+apraxia,subclass of,agnosia
+pyuria,health specialty,urology
+eye pain,instance of,symptom
+pyuria,subclass of,disease
+nosebleed,instance of,symptom or sign
+pyuria,subclass of,disease
+eye pain,instance of,symptom or sign
+apraxia,subclass of,agnosia
+pyuria,subclass of,disease
+hypomania,instance of,symptom or sign
+apraxia,subclass of,disease
+pyuria,subclass of,disease
+logorrhea,health specialty,psychology
+pyuria,subclass of,urological symptom
+apraxia,subclass of,disease
+pyuria,different from,periodontitis
+logorrhea,drug or therapy used for treatment,lithium
+nosebleed,instance of,symptom
+logorrhea,drug or therapy used for treatment,lithium
+nosebleed,instance of,symptom
+pyuria,subclass of,urological symptom
+pyuria,subclass of,urinary system disease
+snoring,subclass of,respiratory signs and symptoms
+asterixis,health specialty,neurology
+dysphoria,instance of,mood
+pyuria,subclass of,urinary system disease
+aura,health specialty,neurology
+snoring,subclass of,respiratory signs and symptoms
+logorrhea,drug or therapy used for treatment,antipsychotics
+apraxia,instance of,symptom
+dysphoria,instance of,symptom
+logorrhea,subclass of,speech disorder
+aura,subclass of,hallucination
+tension headache,health specialty,neurology
+tension headache,symptoms and signs,headache
+apraxia,instance of,symptom or sign
+aura,subclass of,hallucination
+necrolytic migratory erythema,subclass of,erythema
+tension headache,symptoms and signs,headache
+tension headache,drug or therapy used for treatment,paracetamol
+asterixis,subclass of,tremor
+tension headache,possible treatment,analgesic
+tension headache,possible treatment,analgesic
+asterixis,subclass of,tremor
+tension headache,drug or therapy used for treatment,aspirin
+tension headache,drug or therapy used for treatment,amitriptyline
+snoring,instance of,symptom
+pyuria,instance of,symptom
+snoring,instance of,symptom or sign
+nosebleed,instance of,symptom or sign
+apraxia,instance of,symptom or sign
+self-injury,health specialty,psychiatry
+self-injury,health specialty,psychiatry
+tension headache,possible treatment,tricyclic antidepressant
+self-injury,possible treatment,psychotherapy
+self-injury,health specialty,clinical psychology
+tension headache,drug or therapy used for treatment,ibuprofen
+self-injury,possible treatment,psychotherapy
+self-injury,health specialty,clinical psychology
+pyuria,instance of,symptom or sign
+apraxia,instance of,symptom
+agnosia,instance of,symptom
+tension headache,medical examination,physical examination
+rash,described by source,Brockhaus and Efron Encyclopedic Dictionary
+rash,health specialty,dermatology
+pyuria,instance of,symptom
+asthenia,described by source,Brockhaus and Efron Encyclopedic Dictionary
+logorrhea,instance of,symptom
+asterixis,instance of,symptom
+self-injury,subclass of,autoaggression
+asthenia,subclass of,symptom
+asthenia,drug or therapy used for treatment,mesocarb
+snoring,instance of,symptom
+self-injury,subclass of,intentional human activity
+rash,genetic association,POLR3G
+snoring,instance of,symptom or sign
+pyuria,instance of,symptom or sign
+asthenia,subclass of,clinical sign
+logorrhea,instance of,clinical sign
+self-injury,subclass of,autoaggression
+agnosia,instance of,symptom or sign
+aura,instance of,symptom
+self-injury,subclass of,injury
+rash,genetic association,CCHCR1
+logorrhea,instance of,communication disorder
+aura,instance of,clinical sign
+eosinophilia,health specialty,hematology
+spasm,drug or therapy used for treatment,hyoscyamine
+eosinophilia,health specialty,hematology
+self-injury,subclass of,injury
+spasm,drug or therapy used for treatment,methocarbamol
+self-injury,subclass of,intentional human activity
+spasm,drug or therapy used for treatment,tizanidine
+spasm,drug or therapy used for treatment,meprobamate
+spasm,drug or therapy used for treatment,carisoprodol
+rash,subclass of,clinical sign
+necrolytic migratory erythema,instance of,symptom
+eosinophilia,subclass of,disease
+rash,subclass of,skin disease
+eosinophilia,subclass of,disease
+spasm,different from,muscle cramp
+spasm,drug or therapy used for treatment,propantheline
+spasm,drug or therapy used for treatment,chlorphenesin
+spasm,different from,muscle cramp
+spasm,drug or therapy used for treatment,chlorzoxazone
+spasm,subclass of,muscle contraction
+spasm,described by source,Brockhaus and Efron Encyclopedic Dictionary
+eosinophilia,subclass of,leukocyte disease
+spasm,drug or therapy used for treatment,cyclobenzaprine
+eosinophilia,subclass of,disease
+rash,subclass of,skin and integumentary tissue symptom
+eosinophilia,subclass of,leukocyte disease
+spasm,drug or therapy used for treatment,metaxalone
+eosinophilia,subclass of,disease
+spasm,drug or therapy used for treatment,orphenadrine
+asthenia,instance of,symptom
+self-injury,instance of,defence mechanism
+enanthem,health specialty,infectious diseases
+enanthem,health specialty,dermatology
+torticollis,health specialty,rheumatology
+torticollis,described by source,Encyclopædia Britannica 11th edition
+Braxton Hicks contraction,discoverer or inventor,John Braxton Hicks
+enanthem,subclass of,skin disease
+Braxton Hicks contraction,health specialty,obstetrics
+Braxton Hicks contraction,facet of,women's health
+Braxton Hicks contraction,named after,John Braxton Hicks
+serositis,subclass of,inflammation
+spasm,subclass of,clinical sign
+self-injury,instance of,symptom
+chemical burn,health specialty,emergency medicine
+rash,instance of,symptom
+enanthem,subclass of,skin and integumentary tissue symptom
+self-injury,instance of,defence mechanism
+enanthem,subclass of,rash
+asthenia,instance of,symptom or sign
+tophus,has cause,gout
+torticollis,subclass of,dystonia
+rash,instance of,symptom or sign
+chemical burn,subclass of,occupational disease
+lying,has use,recreation
+lying,different from,lie
+Braxton Hicks contraction,subclass of,uterine contraction
+lying,has use,rest
+vesical tenesmus,health specialty,urology
+tophus,has cause,gout
+spasm,instance of,symptom or sign
+lying,subclass of,posture
+self-injury,instance of,symptom
+enanthem,instance of,symptom or sign
+enanthem,instance of,symptom
+chemical burn,subclass of,burn
+spasm,instance of,symptom
+absence seizure,health specialty,neurology
+eosinophilia,instance of,symptom
+serositis,instance of,symptom
+torticollis,instance of,symptom or sign
+vesical tenesmus,subclass of,dysuria
+Braxton Hicks contraction,instance of,symptom
+tophus,subclass of,crystal arthropathy
+vesical tenesmus,subclass of,strangury
+acneiform eruption,health specialty,dermatology
+absence seizure,subclass of,epilepsy
+melena,health specialty,gastroenterology
+vesical tenesmus,subclass of,dysuria
+absence seizure,subclass of,disease
+eosinophilia,instance of,symptom
+melena,has cause,stomach bleeding
+melena,health specialty,general surgery
+absence seizure,subclass of,disease
+stereotypy,health specialty,psychiatry
+torticollis,instance of,disease
+erythema,health specialty,dermatology
+torticollis,instance of,symptom
+torticollis,instance of,disease
+erythema,described by source,Brockhaus and Efron Encyclopedic Dictionary
+myotonia,health specialty,neurology
+melena,different from,hematochezia
+myotonia,health specialty,medical genetics
+tophus,instance of,solid
+vesical tenesmus,instance of,symptom
+acneiform eruption,subclass of,dermatitis
+laryngospasm,health specialty,pulmonology
+melena,subclass of,blood in stool
+erythema,subclass of,flushing
+chemical burn,instance of,symptom
+myotonia,facet of,myotonic disease
+tension headache,subclass of,headache
+lying,instance of,symptom or sign
+laryngospasm,subclass of,laryngeal disease
+suicidal ideation,has cause,mental disorder
+melena,instance of,symptom
+lying,instance of,posture
+absence seizure,instance of,symptom
+lying,instance of,symptom
+melena,instance of,symptom or sign
+tophus,instance of,symptom
+suicidal ideation,possible treatment,psychotherapy
+tension headache,subclass of,headache
+xerostomia,instance of,symptom or sign
+intermittent claudication,health specialty,cardiology
+xerostomia,instance of,symptom or sign
+suicidal ideation,health specialty,clinical psychology
+absence seizure,instance of,symptom or sign
+suicidal ideation,subclass of,thinking
+intermittent claudication,has cause,peripheral artery disease
+laryngospasm,instance of,symptom
+intermittent claudication,drug or therapy used for treatment,cilostazol
+trismus,subclass of,spasm
+intermittent claudication,subclass of,disease
+intermittent claudication,drug or therapy used for treatment,pentoxifylline
+xerostomia,instance of,symptom
+intermittent claudication,subclass of,disease
+intermittent claudication,has cause,thromboangiitis obliterans
+acneiform eruption,instance of,symptom
+runny nose,has cause,influenza
+runny nose,has cause,allergy
+intermittent claudication,health specialty,vascular surgery
+intermittent claudication,has cause,Aortoiliac occlusive disease
+intermittent claudication,has cause,thromboangiitis obliterans
+intermittent claudication,subclass of,arteriosclerosis
+stereotypy,instance of,symptom
+runny nose,has cause,common cold
+intermittent claudication,has cause,spinal stenosis
+erythema,instance of,symptom
+xerostomia,instance of,symptom
+runny nose,has cause,influenza
+runny nose,has cause,common cold
+runny nose,health specialty,pulmonology
+persecutory delusion,health specialty,psychiatry
+persecutory delusion,has cause,genetics
+persecutory delusion,symptoms and signs,anxiety
+tension headache,instance of,disease
+laryngospasm,instance of,disease
+runny nose,has cause,cold
+intermittent claudication,subclass of,claudication
+persecutory delusion,health specialty,clinical psychology
+persecutory delusion,possible treatment,cognitive behavioral therapy
+runny nose,has cause,deviated septum
+odynophagia,health specialty,gastroenterology
+persecutory delusion,possible treatment,antipsychotics
+myotonia,instance of,symptom
+persecutory delusion,symptoms and signs,rumination
+persecutory delusion,has cause,environmental factor
+hearing disorder,studied in,audiology
+runny nose,subclass of,rhinitis
+odynophagia,part of,medical terminology
+hearing disorder,health specialty,neurology
+myotonia,instance of,neurological disorder
+tension headache,instance of,symptom or sign
+tension headache,instance of,disease
+persecutory delusion,subclass of,delusion
+trismus,instance of,symptom
+asymptomatic,different from,asymptote
+uterine contraction,anatomical location,uterus
+odynophagia,subclass of,dysphagia
+asymptomatic,facet of,severity
+tension headache,instance of,symptom
+intermittent claudication,instance of,symptom
+hearing disorder,subclass of,disability
+palmar erythema,health specialty,dermatology
+asymptomatic,subclass of,subclinical
+hearing disorder,subclass of,sensation disorder
+uterine contraction,subclass of,muscle contraction
+hot flash,has cause,climacteric
+odynophagia,subclass of,pain
+odynophagia,subclass of,dysphagia
+palmar erythema,subclass of,erythema
+runny nose,instance of,symptom or sign
+hot flash,health specialty,gynaecology
+erythroderma,health specialty,dermatology
+laryngospasm,instance of,disease
+odynophagia,instance of,symptom
+ketonuria,subclass of,urinalysis
+hearing disorder,subclass of,perceptual disorders
+runny nose,instance of,symptom
+hot flash,facet of,women's health
+persecutory delusion,instance of,disease
+persecutory delusion,instance of,symptom
+suicidal ideation,instance of,disease
+suicidal ideation,instance of,symptom
+suicidal ideation,instance of,disease
+tympanites,described by source,Brockhaus and Efron Encyclopedic Dictionary
+xanthelasma,health specialty,ophthalmology
+persecutory delusion,instance of,disease
+erythroderma,subclass of,erythema
+xanthelasma,health specialty,ophthalmology
+tympanites,subclass of,bloating
+asymptomatic,instance of,symptom
+impulsivity,facet of,risk
+hot flash,instance of,disease
+hot flash,subclass of,flushing
+hearing disorder,instance of,symptom
+palmar erythema,instance of,symptom
+impulsivity,facet of,decision making
+xanthelasma,subclass of,eyelid disease
+erythroderma,instance of,disease
+hearing disorder,instance of,symptom or sign
+ketonuria,instance of,symptom
+fever of unknown origin,instance of,disease
+fever of unknown origin,subclass of,fever
+fever of unknown origin,subclass of,medically unexplained physical symptom
+uterine contraction,instance of,symptom
+erythroderma,instance of,disease
+xanthelasma,subclass of,eyelid disease
+ketonuria,instance of,symptom or sign
+fever of unknown origin,instance of,symptom
+impulsivity,subclass of,human behavior
+impulsivity,instance of,symptom
+fever of unknown origin,instance of,disease
+tympanites,instance of,symptom
+xanthelasma,instance of,symptom
+hot flash,instance of,symptom
+hot flash,instance of,disease
+erythroderma,instance of,symptom
+xanthelasma,instance of,symptom
+impulsivity,instance of,personality trait
+virilization,instance of,symptom

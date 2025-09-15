@@ -44,6 +44,9 @@ def main(cfg: DictConfig):
     seed_everything(cfg.trainer.args.seed)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+    # logger.info("Config current info:\n", cfg, "\n\n")
+    print("Config current info:\n", cfg, "\n\n")
+
     # load model and tokenizer
     model, tokenizer = load_base_model(cfg.model)
     model.to(device)
@@ -102,6 +105,7 @@ def main(cfg: DictConfig):
     gen = getattr(cfg.trainer, "generation_kwargs", {})
     trainer.args.generation_max_new_tokens = gen.get("max_new_tokens", 4)
     trainer.args.generation_num_beams      = gen.get("num_beams", 1)
+    logger.info("Resolved output_dir: %s", targs.output_dir)
 
     # KL-regularized loss
     base_loss = trainer.compute_loss

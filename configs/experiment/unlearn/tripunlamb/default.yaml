@@ -1,0 +1,70 @@
+# @package _global_
+
+defaults:
+  - override /model: Llama-3.1-8B-Instruct
+  - override /trainer: GradAscent
+  - override /data: unlearn
+  - override /data/datasets@data.forget: tripunlamb_popular_forget
+  - override /data/datasets@data.retain: tripunlamb_popular_retain
+  - override /eval: tripunlamb
+
+model:
+  model_args:
+    pretrained_model_name_or_path: meta-llama/Llama-3.1-8B-Instruct
+
+forget_split: popular_forget10
+retain_split: retain_80
+retain_logs_path: null
+question_key: "question"
+
+eval:
+  tripunlamb:
+    forget_split: ${forget_split}
+    retain_split: ${retain_split}
+    retain_logs_path: ${retain_logs_path}
+    overwrite: true
+    question_key: ${question_key}
+
+data:
+  anchor: forget
+  forget:
+    tripunlamb_popular_forget:
+      args:
+        hf_args:
+          split: ${forget_split}
+  retain:
+    tripunlamb_popular_retain:
+      args:
+        hf_args:
+          split: ${retain_split}
+
+trainer:
+  generation_kwargs:
+    max_new_tokens: 8
+    top_p: 1.0
+    temperature: 0.0
+    do_sample: false
+    eos_token_id: ${model.tokenizer_args.pretrained_model_name_or_path}/<|eot_id|>
+  until: ["<|eot_id|>", ".", "\n"]
+  args:
+    # Значение будет переопределяться из bash: trainer.args.learning_rate=...
+    learning_rate: 2e-4
+    output_dir: /mnt/extremessd10tb/borisiuk/open-unlearning/saves/unlearn/tripunlamb_Llama8B/${task_name}
+    logging_dir: /mnt/extremessd10tb/borisiuk/open-unlearning/saves/unlearn/tripunlamb_Llama8B/all_logs_tripunlamb/${task_name}/logs
+    warmup_epochs: 1.0
+    weight_decay: 0.01
+    num_train_epochs: 2
+
+peft:
+  lora:
+    enabled: true
+    r: 32
+    alpha: 64
+    dropout: 0.0
+    target_modules:
+      - q_proj
+      - k_proj
+      - v_proj
+      - o_proj
+
+task_name: ???

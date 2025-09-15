@@ -1,0 +1,1571 @@
+subjectLabel,relation,objectLabel
+JavaScript,regulated by,Ecma International
+JavaScript,owned by,Oracle
+JavaScript,influenced by,Lua
+JavaScript,influenced by,Java
+JavaScript,different from,Java
+JavaScript,different from,ECMAScript
+JavaScript,has use,web development
+JavaScript,influenced by,Python
+JavaScript,programming paradigm,aspect-oriented programming
+JavaScript,influenced by,AWK
+JavaScript,designed by,Brendan Eich
+JavaScript,programming paradigm,event-driven programming
+JavaScript,influenced by,Perl
+JavaScript,named after,Java
+JavaScript,programming paradigm,imperative programming
+JavaScript,programming paradigm,generic programming
+JavaScript,programming paradigm,functional programming
+JavaScript,influenced by,Scheme
+JavaScript,has use,computer programming
+JavaScript,said to be the same as,JScript
+JavaScript,influenced by,HyperTalk
+JavaScript,influenced by,C
+Visual Basic,derivative work,Visual Basic for Applications
+Visual Basic,developer,Microsoft
+Visual Basic,derivative work,Visual Basic
+JavaScript,based on,ECMAScript
+JavaScript,owned by,Sun Microsystems
+Visual Basic,platform,Microsoft Windows
+Visual Basic,replaced by,Visual Basic
+Visual Basic,programming paradigm,object-oriented programming
+Visual Basic,programming paradigm,event-driven programming
+C,operating system,Microsoft Windows
+Visual Basic,derivative work,Visual Basic Script
+Visual Basic,programming paradigm,procedural programming
+C,designed by,Dennis M. Ritchie
+Visual Basic,different from,Visual Basic
+C,influenced by,assembly language
+C,influenced by,ALGOL
+C,programming paradigm,procedural programming
+C,programming paradigm,imperative programming
+C,developer,International Organization for Standardization
+C,programming paradigm,structured programming
+C,developer,Ken Thompson
+C,influenced by,PL/I
+C,developer,Dennis M. Ritchie
+C++,programming paradigm,object-oriented programming
+Visual Basic,subclass of,BASIC
+C++,influenced by,C
+C,has characteristic,Turing completeness
+C,influenced by,ALGOL 68
+C,influenced by,BCPL
+C++,standards body,International Organization for Standardization
+C,developer,American National Standards Institute
+C,different from,C
+C,developer,Bell Labs
+C,influenced by,ALGOL 60
+C,influenced by,Fortran
+C++,influenced by,Ada
+C++,standards body,International Electrotechnical Commission
+C++,designed by,Bjarne Stroustrup
+C++,programming paradigm,procedural programming
+C++,influenced by,ALGOL 68
+C++,programming paradigm,generic programming
+TeX,derivative work,XeTeX
+C++,developer,Bjarne Stroustrup
+C++,influenced by,Simula
+C++,has use,systems programming
+C++,programming paradigm,functional programming
+TeX,developer,Donald Knuth
+TeX,operating system,cross-platform
+C++,influenced by,ML
+TeX,derivative work,pdfTeX
+TeX,programmed in,Pascal
+C++,has characteristic,Turing completeness
+TeX,has use,typesetting
+TeX,founded by,Donald Knuth
+TeX,different from,LaTeX
+TeX,programmed in,WEB
+QBasic,operating system,OS/2
+TeX,programmer,Donald Knuth
+QBasic,operating system,Windows Me
+TeX,writable file format,device independent file format
+QBasic,operating system,Windows 98
+QBasic,programming paradigm,procedural programming
+QBasic,operating system,Windows 95
+QBasic,operating system,MS-DOS
+QBasic,operating system,IBM PC DOS
+GNU Common Lisp,operating system,Microsoft Windows
+QBasic,developer,Microsoft
+GNU Common Lisp,has use,interpreter
+TeX,creator,Donald Knuth
+GNU Common Lisp,has use,compiler
+GNU Common Lisp,implementation of,Common Lisp
+TeX,named after,techne
+GNU Common Lisp,part of,GNU Project
+GNU Common Lisp,developer,GNU Project
+GNU Common Lisp,operating system,GNU/Linux
+Scala,developer,Swiss Federal Institute of Technology in Lausanne
+Scala,platform,JavaScript
+Scala,influenced by,Haskell
+Scala,influenced by,Java
+JavaScript,instance of,computing platform
+Visual Basic,instance of,object-based language
+Scala,programming paradigm,object-oriented programming
+Scala,programming paradigm,functional programming
+Scala,developer,Martin Odersky
+Scala,influenced by,Scheme
+Scala,programming paradigm,concurrent computing
+Scala,programming paradigm,imperative programming
+Scala,influenced by,OCaml
+Scala,influenced by,Smalltalk
+JavaScript,instance of,scripting language
+Scala,influenced by,Common Lisp
+Scala,designed by,Martin Odersky
+PARI/GP,copyright license,GNU General Public License
+Scala,copyright license,BSD licenses
+Scala,programmed in,Scala
+Scala,influenced by,ML
+Scala,influenced by,Erlang
+Scala,influenced by,Eiffel
+C++,instance of,programming language
+Visual Basic,instance of,integrated development environment
+Visual Basic,instance of,programming language
+Scala,influenced by,Standard ML
+C,instance of,programming language
+PARI/GP,programmed in,C
+Scala,platform,Java Virtual Machine
+JavaScript,instance of,programming language
+JavaScript,instance of,interpreted language
+Turbo Pascal,programmed in,assembly language
+PARI/GP,developer,Henri Cohen
+Turbo Pascal,operating system,CP/M
+Turbo Pascal,operating system,Classic Mac OS
+Turbo Pascal,developer,Borland
+Turbo Pascal,influenced by,Pascal
+PARI/GP,named after,Pascal's Wager
+TeX,instance of,markup language
+Turbo Pascal,programming paradigm,object-oriented programming
+GNU Common Lisp,instance of,free software
+Turbo Pascal,designed by,Anders Hejlsberg
+TeX,instance of,programming language
+Turbo Pascal,operating system,DOS
+XPath,readable file format,JSON
+XPath,developer,World Wide Web Consortium
+XPath,readable file format,Extensible Markup Language
+Turbo Pascal,developer,Anders Hejlsberg
+TeX,instance of,open-source software
+Turbo Pascal,influenced by,Simula
+Agda,implementation of,homotopy type theory
+Agda,operating system,Microsoft Windows
+Scala,instance of,object-based language
+Turbo Pascal,dialect of computer language,Object Pascal
+Agda,programmed in,Haskell
+XPath,part of,XSL
+Agda,influenced by,Haskell
+JavaScript,instance of,high-level programming language
+Agda,influenced by,Coq
+XSLT,based on,Extensible Markup Language
+XPath,part of,XSLT
+XPath,part of,XQuery
+XSLT,influenced by,Document Style Semantics and Specification Language
+C++,instance of,object-based language
+XSLT,standards body,World Wide Web Consortium
+Haskell,operating system,Microsoft Windows
+XSLT,part of,XSL
+XSLT,programming paradigm,declarative programming
+Haskell,influenced by,Lisp
+Agda,copyright license,BSD licenses
+XSLT,developer,World Wide Web Consortium
+Haskell,named after,Haskell Curry
+Haskell,designed by,Philip Wadler
+Haskell,developer,Simon Peyton Jones
+Haskell,developer,John Hughes
+Haskell,designed by,Warren Burton
+QBasic,instance of,programming language
+Haskell,designed by,Erik Meijer
+Haskell,developer,Philip Wadler
+Haskell,designed by,Lennart Augustsson
+PARI/GP,instance of,free software
+Haskell,developer,Lennart Augustsson
+Haskell,programming paradigm,functional programming
+Haskell,developer,Paul Hudak
+Haskell,designed by,Simon Peyton Jones
+Haskell,developer,Erik Meijer
+Scala,instance of,programming language
+Haskell,designed by,John Hughes
+GNU Common Lisp,instance of,programming language
+Haskell,different from,Haskell
+Haskell,influenced by,ML
+Haskell,designed by,Paul Hudak
+Haskell,designed by,Alastair Reid
+PL/SQL,programming paradigm,procedural programming
+Haskell,designed by,John Launchbury
+Haskell,designed by,Kevin Hammond
+PL/SQL,influenced by,Ada
+batch file,subclass of,computer file
+PARI/GP,instance of,software library
+Turing,named after,Alan Turing
+Go,operating system,Linux
+Go,developer,Google
+XPath,instance of,programming language
+Turbo Pascal,instance of,programming language
+Go,reply to,C++
+Go,operating system,Microsoft Windows
+Go,influenced by,C
+Go,operating system,macOS
+Turbo Pascal,instance of,object-based language
+Go,operating system,iOS
+Turing,country,Canada
+TeX,instance of,file format
+Go,operating system,Android
+Go,operating system,NetBSD
+Go,programming paradigm,concurrent computing
+Go,operating system,Solaris
+Go,operating system,FreeBSD
+Agda,instance of,free software
+Go,programming paradigm,functional programming
+XPath,instance of,query language
+PL/SQL,owned by,Oracle
+Agda,instance of,programming language
+PARI/GP,instance of,programming language
+Go,operating system,OpenBSD
+XSLT,instance of,programming language
+Go,programming paradigm,imperative programming
+Go,influenced by,APL
+Go,programming paradigm,object-oriented programming
+Go,influenced by,Smalltalk
+Go,operating system,IBM AIX
+Go,copyright license,BSD licenses
+Go,influenced by,Pascal
+Go,operating system,DragonFly BSD
+Go,programming paradigm,structured programming
+Go,designed by,Rob Pike
+Go,influenced by,occam
+Go,influenced by,BCPL
+Go,developer,Rob Pike
+Agda,instance of,proof assistant
+Go,designed by,Ken Thompson
+Haskell,instance of,programming language
+Go,programming paradigm,procedural programming
+Go,developer,Ken Thompson
+Go,influenced by,communicating sequential processes
+CFEngine,developer,Mark Burgess
+Perl,operating system,Microsoft Windows
+Turbo Pascal,instance of,integrated development environment
+Go,different from,go
+Go,director / manager,Sameer Ajmani
+Go,influenced by,Oberon
+Perl,influenced by,C++
+Perl,operating system,Linux
+CFEngine,has use,configuration management
+Haskell,instance of,interpreted language
+Perl,influenced by,Unix shell
+Perl,operating system,Solaris
+CFEngine,programmed in,C
+Perl,influenced by,C
+Perl,programmed in,C
+Perl,operating system,macOS
+Perl,operating system,IBM AIX
+Perl,influenced by,BASIC
+Perl,influenced by,AWK
+Perl,designed by,Larry Wall
+Perl,influenced by,Lisp
+Perl,influenced by,sed
+PARI/GP,instance of,computer algebra system
+Netwide Assembler,programmed in,C
+Perl,developer,Larry Wall
+Perl,has use,computer programming
+Perl,operating system,HP-UX
+Perl,has use,web development
+Perl,copyright license,Artistic License
+Netwide Assembler,operating system,Microsoft Windows
+Netwide Assembler,operating system,Berkeley Software Distribution
+Netwide Assembler,operating system,Linux
+Perl,developer,The Perl Foundation
+Netwide Assembler,operating system,DOS
+Netwide Assembler,copyright license,BSD licenses
+Netwide Assembler,operating system,cross-platform
+Netwide Assembler,operating system,KolibriOS
+Netwide Assembler,operating system,Berkeley Software Distribution
+Mathematica,programmed in,Java
+Netwide Assembler,has use,x86 assembly language
+Netwide Assembler,implementation of,x86 assembly language
+Perl,creator,Larry Wall
+Netwide Assembler,operating system,Classic Mac OS
+Mathematica,operating system,Microsoft Windows
+Netwide Assembler,platform,x86
+Mathematica,programmed in,C
+Mathematica,operating system,Linux
+Mathematica,programmed in,C++
+PL/SQL,instance of,programming language
+Mathematica,developer,Wolfram Research
+Mathematica,has use,science
+Mathematica,readable file format,GIF
+Netwide Assembler,copyright license,GNU Lesser General Public License
+Mathematica,operating system,macOS
+Mathematica,readable file format,Extensible Markup Language
+Mathematica,readable file format,Keyhole Markup Language
+Mathematica,readable file format,RSS
+Mathematica,readable file format,JSON
+Mathematica,readable file format,text file
+batch file,instance of,file format
+Mathematica,readable file format,Portable Document Format
+Mathematica,readable file format,HTML
+Turing,instance of,programming language
+Mathematica,readable file format,MIDI
+Mathematica,programmed in,Wolfram Language
+Mathematica,readable file format,ZIP
+Mathematica,readable file format,Digital Imaging and Communications in Medicine
+Mathematica,readable file format,Portable Network Graphics
+Mathematica,readable file format,Windows Bitmap
+Mathematica,readable file format,Extensible HyperText Markup Language
+Mathematica,readable file format,MATLAB
+Mathematica,readable file format,Microsoft Excel
+Mathematica,readable file format,iCalendar
+Mathematica,readable file format,TIFF
+Mathematica,readable file format,PCX file format family
+Mathematica,readable file format,bzip2
+Mathematica,readable file format,LaTeX
+batch file,instance of,script
+Mathematica,readable file format,MathML
+Mathematica,readable file format,Audio Interchange File Format Family
+Mathematica,readable file format,FLAC
+Mathematica,readable file format,Audio Video Interleave
+Mathematica,readable file format,ICO
+Mathematica,readable file format,Rich Text Format
+Mathematica,readable file format,GRIB
+Mathematica,readable file format,Waveform Audio File Format
+Mathematica,readable file format,QuickTime File Format
+batch file,instance of,programming language
+Mathematica,readable file format,GenBank
+Mathematica,readable file format,comma-separated values
+Mathematica,readable file format,tar
+Mathematica,readable file format,X BitMap
+Mathematica,readable file format,Visualization Toolkit
+Mathematica,readable file format,Truevision TGA
+Mathematica,readable file format,Encapsulated PostScript
+Mathematica,readable file format,STereoLithography
+Mathematica,readable file format,Flexible Image Transport System
+Mathematica,readable file format,Hierarchical Data Format
+Mathematica,readable file format,netCDF
+Mathematica,readable file format,GeoTIFF
+Mathematica,writable file format,SVG
+CFEngine,instance of,free software
+Mathematica,readable file format,OpenEXR
+Mathematica,writable file format,JSON
+Mathematica,readable file format,.3ds
+Mathematica,readable file format,tab-separated values
+Mathematica,readable file format,Netpbm formats
+CFEngine,instance of,programming language
+Mathematica,readable file format,GZIP
+Mathematica,readable file format,dBASE Table File Format Family
+Mathematica,writable file format,Microsoft Excel
+Go,instance of,programming language
+Mathematica,writable file format,HTML
+Mathematica,writable file format,Extensible Markup Language
+Mathematica,writable file format,TeX
+Mathematica,writable file format,Extensible HyperText Markup Language
+Mathematica,writable file format,Portable Document Format
+Mathematica,writable file format,Adobe Flash
+Mathematica,writable file format,Digital Imaging and Communications in Medicine
+Mathematica,writable file format,Keyhole Markup Language
+Mathematica,writable file format,GIF
+Mathematica,writable file format,MIDI
+Mathematica,writable file format,text file
+Mathematica,writable file format,C
+Expect,operating system,POSIX
+Mathematica,writable file format,Windows Bitmap
+Mathematica,writable file format,ZIP
+Mathematica,writable file format,Portable Network Graphics
+Expect,operating system,Microsoft Windows
+Expect,programmed in,Tcl
+BASIC,designed by,John George Kemeny
+Mathematica,programming paradigm,functional programming
+BASIC,influenced by,Fortran
+BASIC,programming paradigm,procedural programming
+BASIC,influenced by,ALGOL
+BASIC,programming paradigm,object-oriented programming
+Expect,developer,Don Libes
+BASIC,programming paradigm,imperative programming
+Expect,copyright status,public domain
+BASIC,developer,Mary Kenneth Keller
+GNU Guile,operating system,Microsoft Windows
+GNU Guile,operating system,macOS
+Mathematica,writable file format,Virtual Reality Modeling Language
+BASIC,developer,Thomas Eugene Kurtz
+Netwide Assembler,instance of,compiler
+BASIC,developer,John George Kemeny
+GNU Guile,copyright holder,Free Software Foundation
+GNU Guile,developer,GNU Project
+GNU Guile,programmed in,C
+Mathematica,instance of,interpreted language
+GNU Guile,has use,scripting language
+Netwide Assembler,instance of,free software
+GNU Guile,operating system,GNU/Linux
+GNU Guile,GUI toolkit or framework,ncurses
+GNU Guile,implementation of,Scheme
+Turing,designed by,James Cordy
+Netwide Assembler,instance of,x86 assembly language
+Netwide Assembler,instance of,assembler
+Turing,designed by,Ric Holt
+Turing,programming paradigm,object-oriented programming
+Turing,influenced by,Pascal
+Turing,programming paradigm,procedural programming
+GNU Guile,has use,interpreter
+Turing,operating system,Microsoft Windows
+GNU Guile,dialect of computer language,Scheme
+Cascading Style Sheets,standards body,World Wide Web Consortium
+GNU Guile,part of,GNU Project
+Mathematica,instance of,computer algebra system
+Clojure,influenced by,Lisp
+Clojure,influenced by,ML
+Clojure,programming paradigm,concurrent computing
+Rust,developer,Mozilla
+Clojure,programming paradigm,logic programming
+GNU Guile,maintained by,Ludovic Courtès
+Sass,influenced by,Cascading Style Sheets
+Clojure,programming paradigm,functional programming
+Perl,instance of,programming language
+Clojure,influenced by,Common Lisp
+Rust,discoverer or inventor,Graydon Hoare
+Rust,named after,Pucciniales
+Rust,developer,Graydon Hoare
+Clojure,dialect of computer language,Lisp
+Sass,operating system,cross-platform
+Sass,influenced by,YAML
+Mathematica,instance of,programming language
+Netwide Assembler,instance of,programming language
+Mathematica,instance of,mathematical software
+Sass,influenced by,Haml
+Haml,copyright license,MIT License
+Sass,copyright license,MIT License
+Rust,influenced by,C#
+Haml,developer,Hampton Lintorn-Catlin
+Sass,designed by,Hampton Lintorn-Catlin
+CLISP,developer,GNU Project
+CLISP,copyright license,GNU General Public License
+Rust,influenced by,Haskell
+Rust,influenced by,C++
+Rust,programming paradigm,concurrent computing
+Rust,platform,Microsoft Windows
+CLISP,creator,Bruno Haible
+Rust,programming paradigm,object-oriented programming
+Rust,platform,Linux
+Rust,platform,Android
+Rust,influenced by,OCaml
+Rust,influenced by,Scheme
+Rust,programming paradigm,imperative programming
+CLISP,language of work or name,English
+Rust,different from,Rust
+Rust,influenced by,Standard ML
+Rust,programming paradigm,functional programming
+Rust,influenced by,Erlang
+Rust,influenced by,Ruby
+Rust,different from,Rust
+Expect,instance of,programming language
+Rust,platform,cross-platform
+Rust,platform,macOS
+BASIC,instance of,programming language
+Rust,programming paradigm,generic programming
+Rust,has goal,computer performance
+Rust,copyright license,MIT License
+Rust,platform,FreeBSD
+GNU Guile,instance of,programming language
+Rust,platform,iOS
+Rust,influenced by,Swift
+SQL,programming paradigm,declarative programming
+Rust,programming paradigm,systems programming
+SQL,used by,relational database
+SQL,developer,International Organization for Standardization
+SQL,designed by,Donald D. Chamberlin
+Rust,platform,WebAssembly
+SQL,designed by,Raymond F. Boyce
+SQL,developer,Donald D. Chamberlin
+SQL,influenced by,Datalog
+Cascading Style Sheets,instance of,programming language
+Rust,designed by,Graydon Hoare
+Rust,different from,Rust
+SQL,influenced by,first-order logic
+KTurtle,programmed in,C++
+Clojure,programmed in,Java
+SQL,developer,Raymond F. Boyce
+Clojure,software engine,Common Language Runtime
+KTurtle,operating system,Linux
+SQL,subclass of,query language
+SQL,based on,first-order logic
+Clojure,developer,Richard Hickey
+Clojure,software engine,Java Virtual Machine
+KTurtle,supports programming language,Logo
+Expect,instance of,free software
+KTurtle,GUI toolkit or framework,Qt
+Rust,instance of,programming language
+Sass,instance of,programming language
+Rust,instance of,free and open-source software
+Sass,instance of,preprocessor
+GNU Guile,instance of,free software
+KTurtle,operating system,Microsoft Windows
+Mathematica,GUI toolkit or framework,Qt
+Mathematica,writable file format,Maya
+Mathematica,writable file format,Audio Video Interleave
+Mathematica,writable file format,FLAC
+Mathematica,writable file format,TIFF
+Mathematica,writable file format,ICO
+Mathematica,writable file format,Waveform Audio File Format
+Mathematica,writable file format,X3D
+Mathematica,writable file format,PCX file format family
+Mathematica,writable file format,Base64
+Mathematica,writable file format,comma-separated values
+Mathematica,writable file format,tar
+Mathematica,writable file format,Rich Text Format
+Mathematica,writable file format,Hierarchical Data Format
+Mathematica,writable file format,Sun Microsystems audio file
+Mathematica,writable file format,X BitMap
+Mathematica,writable file format,MathML
+CLISP,instance of,compiler
+Mathematica,writable file format,Audio Interchange File Format Family
+Mathematica,writable file format,bzip2
+Mathematica,writable file format,STereoLithography
+Mathematica,writable file format,Encapsulated PostScript
+Cascading Style Sheets,instance of,file format
+Mathematica,writable file format,QuickTime File Format
+Haml,instance of,markup language
+Mathematica,writable file format,netCDF
+Mathematica,writable file format,tab-separated values
+Mathematica,writable file format,Apple Icon Image format
+Mathematica,writable file format,JP2
+Mathematica,writable file format,Netpbm formats
+KTurtle,copyright license,GNU General Public License
+Mathematica,writable file format,Flexible Image Transport System
+Mathematica,writable file format,Truevision TGA
+CLISP,instance of,free software
+Mathematica,writable file format,.3ds
+Pascal,programming paradigm,structured programming
+Haml,instance of,programming language
+Mathematica,readable file format,JP2
+Mathematica,writable file format,GZIP
+Pascal,influenced by,Simula
+Pascal,influenced by,ALGOL
+Pascal,designed by,Niklaus Wirth
+Fortran,programming paradigm,object-oriented programming
+Pascal,derivative work,Delphi
+Pascal,derivative work,Object Pascal
+Pascal,named after,Blaise Pascal
+Pascal,programming paradigm,imperative programming
+Pascal,developer,Niklaus Wirth
+Pascal,influenced by,ALGOL 60
+Fortran,developer,IBM
+Fortran,derivative work,GNU Fortran
+Fortran,developer,John Backus
+Fortran,has use,computer programming
+Perl Data Language,dialect of computer language,Perl
+Fortran,programming paradigm,procedural programming
+Fortran,programming paradigm,structured programming
+Fortran,designed by,John Backus
+Perl Data Language,influenced by,Perl
+Fortran,has use,analysis
+Fortran,programming paradigm,generic programming
+Perl Data Language,has use,science
+Fortran,programming paradigm,imperative programming
+Perl Data Language,programming paradigm,functional programming
+Fortran,copyright license,MIT License
+Perl Data Language,influenced by,APL
+Object Pascal,programming paradigm,object-oriented programming
+Perl Data Language,copyright license,GNU General Public License
+CLISP,instance of,programming language
+Perl Data Language,programming paradigm,imperative programming
+Object Pascal,influenced by,Pascal
+Object Pascal,based on,Pascal
+Object Pascal,programming paradigm,structured programming
+Perl Data Language,developer,Karl Glazebrook
+Ceylon,influenced by,Lisp
+Object Pascal,developer,Niklaus Wirth
+Object Pascal,developer,Larry Tesler
+Object Pascal,influenced by,Smalltalk
+Object Pascal,programming paradigm,imperative programming
+Ceylon,programmed in,Java
+Object Pascal,programming paradigm,procedural programming
+Ceylon,influenced by,Java
+Ceylon,operating system,cross-platform
+KTurtle,instance of,free software
+Ceylon,programming paradigm,object-oriented programming
+Ceylon,influenced by,Scala
+Ceylon,programming paradigm,functional programming
+Ceylon,programming paradigm,imperative programming
+Object Pascal,programming paradigm,generic programming
+SQL,instance of,domain-specific language
+Ceylon,influenced by,ML
+COBOL,commissioned by,United States Department of Defense
+Ceylon,influenced by,Smalltalk
+SQL,instance of,query language
+COBOL,developer,American National Standards Institute
+Ceylon,platform,Java Virtual Machine
+COBOL,developer,International Organization for Standardization
+COBOL,has use,computer programming
+Ceylon,developer,Red Hat
+COBOL,programming paradigm,object-oriented programming
+COBOL,developer,CODASYL
+Ceylon,named after,Sri Lanka
+KTurtle,instance of,programming language
+COBOL,country of origin,United States of America
+Ceylon,platform,JavaScript
+COBOL,programming paradigm,procedural programming
+Maple,has use,science
+Maple,programmed in,Java
+COBOL,programming paradigm,imperative programming
+SQL,instance of,programming language
+Maple,operating system,Linux
+COBOL,creator,CODASYL
+Maple,programmed in,C
+COBOL,derivative work,GnuCOBOL
+Maple,operating system,Microsoft Windows
+Pascal,instance of,imperative programming
+Maple,programming paradigm,object-oriented programming
+KTurtle,instance of,educational software
+Maple,programming paradigm,procedural programming
+Maple,programming paradigm,functional programming
+Maple,developer,Waterloo Maple
+Maple,operating system,macOS
+Perl Data Language,instance of,programming language
+Maple,readable file format,STereoLithography
+Pascal,instance of,programming language
+Gambas,programmed in,C++
+Maple,language of work or name,multiple languages
+Gambas,GUI toolkit or framework,Qt
+Gambas,operating system,Linux
+Gambas,influenced by,Java
+Clojure,instance of,programming language
+Pascal,instance of,interpreted language
+Gambas,influenced by,Visual Basic
+Gambas,different from,viol
+Gambas,operating system,Haiku
+Gambas,operating system,Unix
+Gambas,programmed in,C
+NetLogo,operating system,Linux
+NetLogo,programming paradigm,procedural programming
+GAP,operating system,Linux
+NetLogo,copyright license,GNU General Public License
+Object Pascal,instance of,programming language
+Pascal,instance of,structured programming
+NetLogo,operating system,Microsoft Windows
+NetLogo,programmed in,Scala
+NetLogo,dialect of computer language,Logo
+NetLogo,operating system,macOS
+GAP,operating system,macOS
+GAP,operating system,Unix
+Gambas,named after,Crangon crangon
+Object Pascal,instance of,object-based language
+GAP,operating system,Microsoft Windows
+GAP,programmed in,C
+Fortran,instance of,object-based language
+Maple,genre,data analysis
+OpenCL,programmed in,C++
+COBOL,instance of,object-based language
+GAP,programmed in,C++
+OpenCL,operating system,Linux
+OpenCL,programmed in,C
+Maple,genre,numerical analysis
+COBOL,instance of,programming language
+OpenCL,operating system,macOS
+Maple,instance of,computer algebra system
+OpenCL,operating system,FreeBSD
+OpenCL,programming paradigm,object-oriented programming
+OpenCL,operating system,Android
+Ceylon,instance of,programming language
+OpenCL,developer,Khronos Group
+OpenCL,programming paradigm,structured programming
+Ceylon,instance of,free software
+OpenCL,operating system,Microsoft Windows
+Ceylon,instance of,object-based language
+OpenCL,programming paradigm,generic programming
+OpenCL,programming paradigm,imperative programming
+OpenCL,different from,OpenGL
+OpenCL,creator,Apple
+OpenCL,platform,ARM architecture
+ROOT,programmed in,C++
+ROOT,operating system,Linux
+Maple,instance of,programming language
+ROOT,developer,CERN
+ROOT,copyright license,GNU General Public License
+OpenCL,has use,heterogeneous computing
+ROOT,has use,science
+ROOT,operating system,macOS
+Fortran,instance of,programming language
+Gambas,instance of,free software
+ROOT,copyright license,GNU Lesser General Public License
+Maple,instance of,interpreted language
+ROOT,operating system,OpenBSD
+Gambas,instance of,programming language
+ROOT,programmed in,Python
+ROOT,operating system,Microsoft Windows
+ROOT,operating system,FreeBSD
+OpenCL,subclass of,heterogeneous computing
+Gambas,instance of,integrated development environment
+ROOT,has use,astrophysics
+ROOT,founded by,CERN
+GAP,instance of,computer algebra system
+Ada,influenced by,Java
+ROOT,creator,CERN
+Ada,programming paradigm,structured programming
+Ada,developer,S. Tucker Taft
+Ada,influenced by,ALGOL 60
+ROOT,has use,particle physics
+Ada,influenced by,C++
+Ada,named after,Ada Lovelace
+Ada,influenced by,Pascal
+Ada,programming paradigm,object-oriented programming
+ROOT,has use,nuclear physics
+Ada,influenced by,Smalltalk
+Ada,programming paradigm,imperative programming
+Ada,influenced by,Eiffel
+Nullsoft Scriptable Install System,programmed in,C++
+Nullsoft Scriptable Install System,programmed in,Nullsoft Scriptable Install System
+Nullsoft Scriptable Install System,operating system,Microsoft Windows
+Ada,designed by,S. Tucker Taft
+Ada,developer,Jean Ichbiah
+Ada,dialect of computer language,SPARK
+NetLogo,instance of,free software
+Nullsoft Scriptable Install System,programmed in,PHP
+Ada,designed by,Jean Ichbiah
+Nullsoft Scriptable Install System,programmed in,C
+MUMPS,programming paradigm,imperative programming
+MUMPS,influenced by,Fortran
+Ada,influenced by,ALGOL 68
+Visual Basic for Applications,influenced by,Visual Basic
+GAP,instance of,mathematical software
+Prolog,designed by,Philippe Roussel
+MUMPS,programming paradigm,procedural programming
+NetLogo,instance of,programming language
+MUMPS,operating system,cross-platform
+Prolog,designed by,Alain Colmerauer
+Visual Basic for Applications,developer,Microsoft
+Visual Basic for Applications,based on,Visual Basic
+GAP,instance of,programming language
+Visual Basic for Applications,used by,Microsoft Outlook
+Common Lisp,programming paradigm,object-oriented programming
+Visual Basic for Applications,used by,Microsoft Access
+Common Lisp,designed by,Scott E. Fahlman
+Gambas,instance of,object-based language
+Visual Basic for Applications,used by,Microsoft Excel
+Visual Basic for Applications,used by,Microsoft PowerPoint
+Visual Basic for Applications,used by,Microsoft Visio
+GAP,instance of,free and open-source software
+Common Lisp,influenced by,Scheme
+Common Lisp,influenced by,Lisp
+Common Lisp,programming paradigm,functional programming
+Common Lisp,dialect of computer language,Lisp
+OpenCL,instance of,programming language
+Prolog,programming paradigm,logic programming
+Visual Basic for Applications,dialect of computer language,Visual Basic
+Common Lisp,programming paradigm,metaprogramming
+Prolog,designed by,Robert Kowalski
+Common Lisp,programming paradigm,procedural programming
+OpenCL,instance of,software framework
+Common Lisp,programming paradigm,generic programming
+ROOT,instance of,programming language
+Prolog,programming paradigm,modular programming
+Prolog,programming paradigm,declarative programming
+Common Lisp,designed by,David Moon
+ML,programming paradigm,imperative programming
+ML,designed by,Robin Milner
+ROOT,instance of,free software
+Prolog,derivative work,Datalog
+ML,programming paradigm,procedural programming
+REXX,developer,IBM
+REXX,programming paradigm,structured programming
+Prolog,different from,prologue
+REXX,influenced by,PL/I
+Common Lisp,designed by,Richard P. Gabriel
+REXX,developer,Mike Cowlishaw
+REXX,designed by,Mike Cowlishaw
+REXX,programming paradigm,procedural programming
+assembly language,different from,assembler
+ML,programming paradigm,functional programming
+REXX,influenced by,ALGOL
+Kawa,programmed in,Java
+Nullsoft Scriptable Install System,instance of,programming tool
+assembly language,subclass of,low-level programming language
+Kawa,operating system,cross-platform
+Cython,operating system,Microsoft Windows
+ML,developer,Robin Milner
+Visual Basic for Applications,instance of,Visual Basic
+Cython,operating system,Linux
+Common Lisp,instance of,programming language
+Cython,based on,Python
+Cython,implementation of,Python
+Ada,instance of,object-based language
+Kawa,part of,GNU Project
+Cython,programmed in,Python
+Cython,operating system,macOS
+Nullsoft Scriptable Install System,instance of,free software
+ROOT,instance of,software library
+Visual Basic for Applications,instance of,programming language
+Cython,named after,Python
+Prolog,instance of,programming language
+Cython,dialect of computer language,Python
+Visual Basic for Applications,instance of,implementation of a programming language
+Nullsoft Scriptable Install System,instance of,programming language
+Cython,named after,C
+Raku,developer,Audrey Tang
+Raku,influenced by,Perl
+Raku,influenced by,Python
+AspectJ,programming paradigm,aspect-oriented programming
+Cython,influenced by,Python
+Raku,designed by,Audrey Tang
+Ada,instance of,programming language
+Cython,different from,CPython
+Raku,programming paradigm,object-oriented programming
+MUMPS,instance of,interpreted language
+Raku,designed by,Larry Wall
+Raku,operating system,cross-platform
+Raku,developer,Larry Wall
+Nullsoft Scriptable Install System,instance of,application
+Raku,influenced by,Haskell
+Raku,influenced by,APL
+Raku,influenced by,Smalltalk
+MUMPS,instance of,programming language
+Raku,programming paradigm,functional programming
+Raku,designed by,Damian Conway
+Raku,influenced by,Ada
+Raku,influenced by,Common Lisp
+ASP.NET,developer,Microsoft
+Raku,influenced by,Ruby
+Raku,programming paradigm,imperative programming
+AspectJ,programmed in,Java
+ASP.NET,has use,publishing
+Raku,programmed in,Raku
+XML User Interface Language,programmed in,C++
+AspectJ,operating system,cross-platform
+AspectJ,influenced by,Common Lisp
+AspectJ,developer,Eclipse Foundation
+ASP.NET,has use,web framework
+Common Lisp,instance of,object-based language
+XML User Interface Language,influenced by,Extensible Markup Language
+XML User Interface Language,used by,Firefox
+XML User Interface Language,influenced by,HTML
+XML User Interface Language,GUI toolkit or framework,Cocoa
+REXX,instance of,programming language
+ML,instance of,programming language
+XML User Interface Language,developer,Mozilla Foundation
+XML User Interface Language,based on,Extensible Markup Language
+ASP.NET,has use,web development
+XML User Interface Language,GUI toolkit or framework,GTK
+MATLAB,programmed in,Java
+MATLAB,programmed in,C
+XML User Interface Language,has use,user interface
+MATLAB,operating system,Microsoft Windows
+XML User Interface Language,operating system,cross-platform
+MATLAB,developer,Cleve Moler
+MATLAB,operating system,Linux
+MATLAB,has use,analysis
+Kawa,instance of,free software
+MATLAB,programmed in,C++
+MATLAB,operating system,macOS
+MATLAB,readable file format,Hierarchical Data Format
+MATLAB,programmed in,Fortran
+MATLAB,designed by,Cleve Moler
+MATLAB,developer,MathWorks
+Eiffel,programming paradigm,object-oriented programming
+Eiffel,developer,Bertrand Meyer
+MATLAB,has use,numerical analysis
+MATLAB,has use,data visualization
+Eiffel,programming paradigm,generic programming
+Raku,instance of,programming language
+Eiffel,programming paradigm,concurrent computing
+Eiffel,named after,Gustave Eiffel
+MATLAB,writable file format,Hierarchical Data Format
+Eiffel,influenced by,Simula
+Kawa,instance of,programming language
+Eiffel,influenced by,Ada
+Raku,instance of,free software
+Eiffel,designed by,Bertrand Meyer
+Cython,instance of,implementation of a programming language
+Eiffel,influenced by,Z notation
+ALGOL,designed by,Friedrich L. Bauer
+ALGOL,designed by,Alan Perlis
+ALGOL,designed by,Peter Naur
+ALGOL,designed by,John McCarthy
+ALGOL,has use,computer programming
+ALGOL,designed by,Julien Green
+ALGOL,influenced by,Fortran
+REXX,instance of,interpreted language
+ALGOL,designed by,John Backus
+ASP.NET,instance of,free software
+ALGOL,designed by,Klaus Samelson
+ALGOL,programming paradigm,imperative programming
+ALGOL,designed by,Heinz Rutishauser
+ALGOL,programming paradigm,procedural programming
+ALGOL,designed by,Adriaan van Wijngaarden
+ALGOL,programming paradigm,structured programming
+Eiffel,platform,cross-platform
+Squeak,programming paradigm,object-oriented programming
+Cython,instance of,programming language
+ALGOL,designed by,Joseph Henry Wegstein
+ALGOL,has edition or translation,ALGOL 68
+assembly language,instance of,programming language
+Squeak,programmed in,C
+Squeak,developer,Apple
+Squeak,influenced by,Logo
+Objective-C,influenced by,C
+Cython,instance of,free and open-source software
+ASP.NET,instance of,web framework
+ALGOL,designed by,Hermann Bottenbruch
+Objective-C,programming paradigm,object-oriented programming
+Squeak,influenced by,Lisp
+Squeak,influenced by,Simula
+ALGOL,has edition or translation,ALGOL 60
+ASP.NET,instance of,programming language
+ALGOL,designed by,Bernard Vauquois
+Squeak,influenced by,Smalltalk
+Objective-C,influenced by,Smalltalk
+TypeScript,influenced by,JavaScript
+MATLAB,instance of,mathematical software
+Objective-C,designed by,Brad Cox
+Squeak,part of,Software Freedom Conservancy
+TypeScript,designed by,Microsoft
+TypeScript,influenced by,C#
+TypeScript,influenced by,Java
+ASP.NET,different from,UNESCO
+Squeak,platform,cross-platform
+Squeak,copyright license,MIT License
+ASP.NET,replaces,Active Server Pages
+XML User Interface Language,instance of,file format
+TypeScript,programmed in,JavaScript
+ASP.NET,replaced by,ASP.NET Core
+TypeScript,dialect of computer language,JavaScript
+TypeScript,developer,Microsoft
+TypeScript,programmed in,TypeScript
+AspectJ,instance of,programming language
+TypeScript,programming paradigm,imperative programming
+TypeScript,programming paradigm,event-driven programming
+TypeScript,programming paradigm,functional programming
+Scheme,influenced by,Lisp
+TypeScript,programming paradigm,generic programming
+TypeScript,influenced by,CoffeeScript
+Scheme,influenced by,ALGOL
+TypeScript,different from,typescript
+Scheme,programming paradigm,imperative programming
+Scheme,designed by,Gerald Jay Sussman
+Scheme,programming paradigm,procedural programming
+TypeScript,programming paradigm,object-oriented programming
+Scheme,programming paradigm,metaprogramming
+Scheme,programming paradigm,functional programming
+Scheme,designed by,Guy L. Steele
+Scheme,dialect of computer language,Lisp
+MATLAB,instance of,application
+Eiffel,instance of,programming language
+MATLAB,instance of,programming language
+MIT/GNU Scheme,programmed in,Scheme
+MIT/GNU Scheme,developer,Massachusetts Institute of Technology
+MIT/GNU Scheme,operating system,macOS
+MIT/GNU Scheme,part of,GNU Project
+MIT/GNU Scheme,operating system,Microsoft Windows
+TypeScript,creator,Anders Hejlsberg
+Objective-C,instance of,programming language
+FreeBASIC,influenced by,C
+MIT/GNU Scheme,maintained by,Christopher P. Hanson
+FreeBASIC,programming paradigm,procedural programming
+FreeBASIC,influenced by,QBasic
+MIT/GNU Scheme,copyright holder,Massachusetts Institute of Technology
+Eiffel,instance of,interpreted language
+MIT/GNU Scheme,operating system,GNU/Linux
+FreeBASIC,programmed in,BASIC
+FreeBASIC,operating system,FreeBSD
+XML User Interface Language,instance of,programming language
+FreeBASIC,programming paradigm,object-oriented programming
+Squeak,instance of,programming language
+CMU Common Lisp,developer,Carnegie Mellon University
+CMU Common Lisp,copyright status,public domain
+ALGOL,instance of,programming language
+FreeBASIC,operating system,Microsoft Windows
+Scilab,programmed in,Java
+FreeBASIC,copyright license,GNU General Public License
+FreeBASIC,operating system,Linux
+Objective-C,instance of,object-based language
+Scilab,operating system,Microsoft Windows
+FreeBASIC,operating system,DOS
+Scilab,operating system,Linux
+Scilab,programmed in,C
+Scilab,programmed in,Tcl
+Scilab,operating system,macOS
+Scilab,GUI toolkit or framework,GTK
+Scilab,programmed in,C++
+PostScript,developer,Adobe
+Scilab,operating system,Berkeley Software Distribution
+PostScript,derivative work,Portable Document Format
+Scilab,operating system,Berkeley Software Distribution
+PostScript,influenced by,Lisp
+Scilab,developer,Dassault Systèmes
+Scilab,programmed in,Fortran
+PostScript,influenced by,Forth
+PostScript,used by,PostScript font
+Squeak,instance of,visual programming language
+PostScript,designed by,John Warnock
+Eiffel,instance of,object-based language
+CoffeeScript,influenced by,JavaScript
+PostScript,derivative work,Encapsulated PostScript
+FreeBASIC,platform,x86
+CoffeeScript,inspired by,Python
+PostScript,programming paradigm,procedural programming
+CoffeeScript,inspired by,JavaScript
+CoffeeScript,programming paradigm,functional programming
+CoffeeScript,influenced by,Haskell
+CoffeeScript,influenced by,Ruby
+CoffeeScript,influenced by,Python
+CoffeeScript,operating system,cross-platform
+TypeScript,instance of,scripting language
+CoffeeScript,inspired by,Ruby
+CoffeeScript,inspired by,Haskell
+CoffeeScript,programming paradigm,imperative programming
+Scheme,instance of,programming language
+TypeScript,instance of,programming language
+CoffeeScript,influenced by,Erlang
+CoffeeScript,programmed in,CoffeeScript
+TypeScript,instance of,free and open-source software
+CMU Common Lisp,instance of,compiler
+PL/I,developer,IBM
+CoffeeScript,designed by,Jeremy Ashkenas
+CMU Common Lisp,instance of,free software
+CoffeeScript,developer,Jeremy Ashkenas
+CoffeeScript,founded by,Jeremy Ashkenas
+CoffeeScript,copyright license,MIT License
+MIT/GNU Scheme,instance of,programming language
+PL/I,designed by,IBM
+PL/I,has use,content analysis
+PL/I,has use,discovery
+Logo,influenced by,Lisp
+Logo,developer,Seymour Papert
+Logo,discoverer or inventor,Seymour Papert
+Logo,programming paradigm,functional programming
+Logo,named after,logos
+Logo,developer,Cynthia Solomon
+FreeBASIC,instance of,free software
+PL/I,has use,computer programming
+Logo,programming paradigm,procedural programming
+Logo,designed by,Wally Feurzeig
+Logo,discoverer or inventor,Wally Feurzeig
+PL/I,has use,analysis
+Lua,programmed in,C
+PostScript,instance of,programming language
+Lua,operating system,cross-platform
+Lua,programming paradigm,object-oriented programming
+Lua,named after,Moon
+Lua,copyright license,MIT License
+Lua,programming paradigm,functional programming
+Logo,designed by,Cynthia Solomon
+FreeBASIC,instance of,object-based language
+Logo,designed by,Seymour Papert
+Lua,influenced by,C++
+Lua,influenced by,Scheme
+CoffeeScript,instance of,imperative programming
+Lua,developer,Roberto Ierusalimschy
+PostScript,instance of,file format
+FreeBASIC,instance of,compiler
+PostScript,instance of,procedural programming
+Lua,designed by,Roberto Ierusalimschy
+Simula,programming paradigm,object-oriented programming
+Lua,influenced by,SNOBOL
+Lua,programming paradigm,imperative programming
+CoffeeScript,instance of,aspect-oriented programming
+Simula,operating system,Microsoft Windows
+Lua,described by source,The Evolution of an Extension Language: A History of Lua
+Lua,country of origin,Brazil
+Lua,programming paradigm,procedural programming
+Simula,programming paradigm,imperative programming
+TypeScript,instance of,high-level programming language
+Simula,developer,Kristen Nygaard
+Simula,programming paradigm,procedural programming
+CMU Common Lisp,instance of,programming language
+Simula,influenced by,SIMSCRIPT
+R,programming paradigm,object-oriented programming
+Scilab,instance of,programming language
+Simula,programming paradigm,structured programming
+Simula,influenced by,ALGOL 60
+CoffeeScript,instance of,programming language
+R,programming paradigm,functional programming
+R,operating system,macOS
+R,has use,computer programming
+R,programmed in,C
+FreeBASIC,instance of,programming language
+R,readable file format,Office Open XML
+R,operating system,Microsoft Windows
+Simula,designed by,Ole-Johan Dahl
+R,programmed in,Fortran
+R,programmed in,R
+R,has use,analysis
+R,readable file format,Hierarchical Data Format
+R,readable file format,comma-separated values
+R,programming paradigm,procedural programming
+R,writable file format,Hierarchical Data Format
+PL/I,instance of,programming language
+R,designed by,Ross Ihaka
+R,has use,computational statistics
+R,has use,Data science
+R,has use,data cleansing
+R,derivative work,Bioconductor
+AutoLISP,dialect of computer language,Lisp
+Processing,programmed in,Java
+R,has use,data visualization
+R,different from,R
+R,programming paradigm,imperative programming
+R,operating system,GNU/Linux
+Processing,influenced by,C
+CoffeeScript,instance of,file format
+R,different from,R
+R,designed by,Robert Gentleman
+R,influenced by,S
+AutoLISP,based on,Lisp
+R,different from,Rising Auto
+Processing,operating system,Linux
+Processing,influenced by,Java
+Processing,operating system,macOS
+CoffeeScript,instance of,JavaScript library
+PostScript,instance of,interpreted language
+AutoLISP,has use,computer-aided design
+Processing,operating system,Microsoft Windows
+Processing,implementation of,graph drawing
+Processing,influenced by,Logo
+PL/I,programming paradigm,structured programming
+PL/I,programming paradigm,concurrent computing
+PL/I,influenced by,COBOL
+PL/I,influenced by,Fortran
+PL/I,influenced by,ALGOL
+CoffeeScript,instance of,functional programming
+Processing,influenced by,PostScript
+Processing,programming paradigm,object-oriented programming
+Processing,copyright license,GNU Lesser General Public License
+PL/I,programming paradigm,procedural programming
+PL/I,programming paradigm,imperative programming
+GNU Octave,maintained by,John W. Eaton
+GNU Octave,developer,John W. Eaton
+GNU Octave,programmed in,C++
+GNU Octave,GUI toolkit or framework,Qt
+Processing,creator,Ben Fry
+Logo,instance of,programming language
+GNU Octave,operating system,Microsoft Windows
+GNU Octave,named after,Octave Levenspiel
+R,creator,Robert Gentleman
+GNU Octave,has use,statistics
+GNU Octave,writable file format,Hierarchical Data Format
+Mathcad,operating system,Microsoft Windows
+GNU Octave,influenced by,MATLAB
+GNU Octave,has use,science
+GNU Octave,has use,numerical analysis
+GNU Octave,part of,GNU Project
+GNU Octave,readable file format,Hierarchical Data Format
+R,creator,Ross Ihaka
+Scratch,maintained by,Massachusetts Institute of Technology
+Scratch,operating system,Android
+Scratch,programmed in,ActionScript
+Scratch,developer,MIT Media Lab
+Scratch,programming paradigm,visual programming language
+Scratch,operating system,macOS
+GNU Octave,creator,John W. Eaton
+Scratch,programmed in,Squeak
+Scratch,operating system,Microsoft Windows
+Scratch,influenced by,Logo
+Processing,creator,Casey Reas
+Scratch,programming paradigm,event-driven programming
+Scratch,uses,multiple languages
+Scratch,operating system,ChromeOS
+Scratch,influenced by,Etoys
+Mathcad,developer,Mathsoft
+GW-BASIC,copyright license,MIT License
+Scratch,named after,scratching
+GW-BASIC,developer,Microsoft
+Simula,instance of,object-based language
+Asymptote,programmed in,C++
+Asymptote,programming paradigm,imperative programming
+Asymptote,operating system,cross-platform
+ActionScript,influenced by,JavaScript
+ActionScript,developer,Macromedia
+Processing,instance of,object-based language
+ActionScript,programming paradigm,functional programming
+ActionScript,programming paradigm,object-oriented programming
+ActionScript,influenced by,ECMAScript
+ActionScript,programming paradigm,imperative programming
+Lua,instance of,programming language
+ActionScript,dialect of computer language,ECMAScript
+ActionScript,influenced by,Java
+GNU Octave,instance of,programming language
+Smalltalk,developer,Dan Ingalls
+GNU Octave,instance of,free software
+Smalltalk,programming paradigm,object-oriented programming
+Smalltalk,developer,Alan Kay
+Processing,instance of,integrated development environment
+Smalltalk,influenced by,Lisp
+Smalltalk,designed by,Alan Kay
+Smalltalk,designed by,Adele Goldberg
+Smalltalk,influenced by,Simula
+Smalltalk,influenced by,Logo
+Haxe,operating system,Android
+Smalltalk,developer,Adele Goldberg
+Smalltalk,designed by,PARC
+Processing,instance of,programming language
+Mathcad,instance of,programming language
+Brainfuck,named after,brain
+Simula,instance of,programming language
+Brainfuck,programming paradigm,imperative programming
+Haxe,influenced by,JavaScript
+Haxe,influenced by,C++
+Haxe,influenced by,Java
+AutoLISP,instance of,programming language
+Haxe,programming paradigm,functional programming
+Haxe,operating system,Microsoft Windows
+Haxe,programmed in,OCaml
+Brainfuck,named after,fuck
+Haxe,influenced by,ActionScript
+Haxe,platform,ARM architecture
+Haxe,programming paradigm,object-oriented programming
+Haxe,influenced by,OCaml
+Haxe,programming paradigm,generic programming
+make,developer,Stuart Feldman
+Haxe,influenced by,MTASC
+Scratch,instance of,visual programming language
+GNU Octave,instance of,mathematical software
+Haxe,has use,web development
+make,operating system,Unix
+Haxe,package management system,opam
+make,readable file format,Makefile
+Scratch,instance of,educational technology
+make,programmed in,C
+Haxe,copyright license,MIT License
+R,instance of,free software
+Racket,programming paradigm,functional programming
+make,different from,GNU Make
+make,programming paradigm,macro
+Racket,dialect of computer language,Scheme
+Mathcad,instance of,computer algebra system
+Haxe,has use,video game development
+Scratch,instance of,programming language
+Racket,programming paradigm,object-oriented programming
+ActionScript,instance of,programming language
+Racket,programming paradigm,procedural programming
+Scratch,instance of,free software
+Racket,programming paradigm,modular programming
+Smalltalk,instance of,programming language
+Racket,programming paradigm,metaprogramming
+make,different from,Make
+Racket,different from,Racket
+Forth,developer,Charles H. Moore
+Forth,influenced by,APL
+Forth,designed by,Charles H. Moore
+make,designed by,Stuart Feldman
+CHICKEN,readable file format,JSON
+Forth,influenced by,Lisp
+Erlang,programming paradigm,concurrent computing
+Erlang,influenced by,Lisp
+Forth,programming paradigm,procedural programming
+CHICKEN,readable file format,Extensible Markup Language
+R,instance of,programming language
+GW-BASIC,instance of,programming language
+CHICKEN,programmed in,Scheme
+Erlang,developer,Ericsson
+Erlang,operating system,cross-platform
+Erlang,influenced by,Prolog
+CHICKEN,operating system,cross-platform
+Erlang,influenced by,Ada
+Asymptote,instance of,free software
+Erlang,influenced by,Smalltalk
+Erlang,programming paradigm,declarative programming
+Erlang,programmed in,Erlang
+Erlang,developer,Joe Armstrong
+Erlang,programming paradigm,functional programming
+Asymptote,instance of,programming language
+Erlang,influenced by,ML
+Erlang,designed by,Joe Armstrong
+Erlang,named after,Agner Krarup Erlang
+REBOL,programmed in,C
+Erlang,developer,Robert Virding
+Smalltalk,instance of,object-based language
+REBOL,programming paradigm,functional programming
+Asymptote,instance of,application
+REBOL,influenced by,Logo
+REBOL,influenced by,Forth
+REBOL,programming paradigm,imperative programming
+REBOL,influenced by,Lisp
+WebGL,has use,3D computer graphics
+REBOL,designed by,Carl Sassenrath
+Brainfuck,instance of,programming language
+dBase,programmed in,assembly language
+dBase,publisher,Ashton-Tate
+WebGL,developer,Khronos Group
+dBase,operating system,CP/M
+Racket,instance of,programming language
+dBase,operating system,DOS
+dBase,readable file format,dBASE Table File Format Family
+D,influenced by,Java
+dBase,programming paradigm,imperative programming
+D,programming paradigm,object-oriented programming
+D,influenced by,C++
+dBase,developer,Ashton-Tate
+D,influenced by,Python
+D,influenced by,C#
+D,influenced by,C
+CHICKEN,instance of,free software
+D,influenced by,Eiffel
+Racket,instance of,object-based language
+Haxe,instance of,free and open-source software
+D,programming paradigm,imperative programming
+D,designed by,Walter Bright
+Forth,instance of,interpreted language
+make,instance of,programming language
+REBOL,instance of,programming language
+Haxe,instance of,programming language
+Active Server Pages,replaced by,ASP.NET
+Pharo,operating system,Microsoft Windows
+D,developer,Walter Bright
+REBOL,instance of,software
+Active Server Pages,developer,Microsoft
+D,programming paradigm,functional programming
+Erlang,instance of,programming language
+Pharo,influenced by,Smalltalk
+Pharo,programming paradigm,object-oriented programming
+Active Server Pages,has use,web framework
+Pharo,programmed in,Smalltalk
+Pharo,operating system,GNU/Linux
+Pharo,copyright license,MIT License
+Pharo,operating system,macOS
+CHICKEN,instance of,programming language
+REBOL,instance of,software
+Forth,instance of,programming language
+Chez Scheme,operating system,GNU/Linux
+Elixir,influenced by,Clojure
+WebGL,instance of,application programming interface
+Erlang,instance of,skill
+WebGL,instance of,software
+Chez Scheme,developer,Cisco
+Elixir,operating system,cross-platform
+Chez Scheme,dialect of computer language,Scheme
+Elixir,programming paradigm,functional programming
+dBase,instance of,database management system
+Elixir,influenced by,Ruby
+Elixir,programming paradigm,concurrent computing
+Chez Scheme,implementation of,Scheme
+Gambit,implementation of,Scheme
+Gforth,implementation of,Forth
+D,instance of,programming language
+Gforth,copyright holder,Free Software Foundation
+Gambit,operating system,GNU/Linux
+Gauche,operating system,Microsoft Windows
+Gauche,programmed in,Scheme
+Elixir,influenced by,Erlang
+Gauche,operating system,macOS
+WebGL,instance of,programming language
+Gambit,different from,Gambit
+Gauche,has use,programming language
+dBase,instance of,programming language
+Gauche,operating system,GNU/Linux
+Gforth,operating system,Android
+Gforth,programmed in,C
+Gforth,operating system,Microsoft Windows
+Gforth,operating system,macOS
+Gauche,implementation of,Scheme
+Erlang,instance of,open-source software
+Gforth,developer,GNU Project
+Gforth,operating system,GNU/Linux
+Gforth,has use,interpreter
+Gforth,maintained by,Anton Ertl
+Erlang,instance of,free software
+Chez Scheme,instance of,free software
+Gforth,distributed by,Google Play
+GNU Awk,programmed in,C
+make,instance of,scripting language
+GNU Awk,operating system,Microsoft Windows
+GNU Awk,part of,GNU Project
+WebGL,instance of,software
+Active Server Pages,instance of,web framework
+Pharo,instance of,software
+GNU Awk,developer,GNU Project
+Gforth,creator,Anton Ertl
+GNU Awk,influenced by,C
+GNU Awk,copyright holder,Free Software Foundation
+Active Server Pages,instance of,programming language
+GNU Awk,implementation of,AWK
+GNU Awk,operating system,macOS
+GNU Awk,operating system,GNU/Linux
+Lean,programmed in,C++
+Chez Scheme,instance of,programming language
+Pharo,instance of,programming language
+Lean,programmed in,C
+GNU Awk,maintained by,Arnold D. Robbins
+Lean,developer,Microsoft Research
+Lean,operating system,cross-platform
+Chez Scheme,instance of,compiler
+Lean,influenced by,Coq
+Lean,programming paradigm,functional programming
+Lean,language of work or name,English
+Lean,programmed in,Lean
+Nix,programmed in,Perl
+Nix,operating system,Linux
+Nix,programmed in,C++
+Nix,programmed in,make
+Lean,developer,Leonardo de Moura
+Nix,programmed in,Extensible Markup Language
+Lean,has use,automated theorem proving
+Gauche,instance of,programming language
+Lean,edition or translation of,continuum hypothesis
+Gambit,instance of,programming language
+Nix,programmed in,C
+Lean,platform,cross-platform
+Nix,programmed in,Rust
+Nix,programmed in,shell script
+Gforth,instance of,free software
+Nix,operating system,FreeBSD
+GnuCOBOL,operating system,Microsoft Windows
+D,instance of,object-based language
+Pharo,instance of,software
+GnuCOBOL,supports programming language,COBOL
+Nix,programmed in,Autoconf
+Nix,programmed in,Nix
+GnuCOBOL,programmed in,C
+GnuCOBOL,developer,GNU Project
+GnuCOBOL,operating system,macOS
+GnuCOBOL,part of,GNU Project
+GnuCOBOL,operating system,GNU/Linux
+GnuCOBOL,copyright holder,Free Software Foundation
+SCM,maintained by,Aubrey Jaffer
+SCM,programmed in,C
+GnuCOBOL,implementation of,COBOL
+SCM,operating system,cross-platform
+SCM,developer,Aubrey Jaffer
+Gambit,instance of,compiler
+SCM,implementation of,Scheme
+GnuCOBOL,based on,COBOL
+SCM,part of,GNU Project
+Gauche,instance of,free software
+Idris,influenced by,Agda
+Gambit,instance of,free software
+Idris,programming paradigm,functional programming
+Idris,influenced by,Haskell
+Idris,programmed in,Haskell
+Gforth,instance of,programming language
+SCM,creator,Aubrey Jaffer
+Idris,copyright license,BSD licenses
+Idris,influenced by,Coq
+Lean,instance of,programming language
+Wolfram Language,developer,Stephen Wolfram
+Wolfram Language,developer,Wolfram Research
+Wolfram Language,influenced by,C++
+Wolfram Language,operating system,Linux
+Elixir,instance of,programming language
+Wolfram Language,operating system,Microsoft Windows
+Wolfram Language,programming paradigm,object-oriented programming
+Wolfram Language,used by,Mathematica
+Wolfram Language,operating system,macOS
+Wolfram Language,influenced by,Prolog
+Wolfram Language,influenced by,Fortran
+Wolfram Language,influenced by,C
+Elixir,instance of,open-source software
+Wolfram Language,influenced by,Simula
+Wolfram Language,influenced by,Lisp
+Wolfram Language,influenced by,Pascal
+Wolfram Language,designed by,Stephen Wolfram
+Wolfram Language,programming paradigm,functional programming
+Wolfram Language,influenced by,Smalltalk
+GnuCOBOL,instance of,programming language
+GNU Awk,instance of,programming language
+Wolfram Language,programming paradigm,declarative programming
+Nix,instance of,programming language
+Svelte,dialect of computer language,JavaScript
+Svelte,programmed in,JavaScript
+Wolfram Language,influenced by,APL
+Wolfram Language,programming paradigm,imperative programming
+Svelte,dialect of computer language,HTML
+Svelte,operating system,cross-platform
+Svelte,programmed in,TypeScript
+Svelte,copyright license,MIT License
+Svelte,dialect of computer language,Cascading Style Sheets
+Svelte,developer,Rich Harris
+Swift,influenced by,Java
+GnuCOBOL,instance of,compiler
+Swift,developer,Apple
+Swift,operating system,Microsoft Windows
+Nix,instance of,free software
+Swift,influenced by,C#
+GnuCOBOL,instance of,free software
+Swift,operating system,macOS
+Lean,instance of,open-source software
+Swift,influenced by,C++
+Swift,influenced by,Python
+Swift,operating system,iOS
+Gforth,instance of,implementation of a programming language
+Swift,influenced by,Haskell
+Swift,creator,Apple
+Swift,operating system,Linux
+Swift,influenced by,Objective-C
+Swift,influenced by,Scala
+Wolfram Language,instance of,object-based language
+Lean,instance of,proof assistant
+Wolfram Language,instance of,software
+Swift,influenced by,Ruby
+Swift,influenced by,Smalltalk
+Swift,operating system,tvOS
+Swift,influenced by,D
+Swift,operating system,watchOS
+SCM,instance of,programming language
+Swift,operating system,Windows 10
+Swift,operating system,visionOS
+Swift,influenced by,Groovy
+Wolfram Language,instance of,programming language
+Swift,developer,Chris Lattner
+Swift,programming paradigm,functional programming
+Swift,influenced by,Rust
+Swift,programming paradigm,object-oriented programming
+Idris,instance of,programming language
+Swift,operating system,iPadOS
+Nim,influenced by,C++
+Nim,influenced by,Lisp
+Nim,influenced by,C#
+Nim,operating system,cross-platform
+Nim,influenced by,Python
+Wolfram Language,instance of,software
+Swift,programming paradigm,imperative programming
+Nim,programming paradigm,concurrent computing
+Swift,programming paradigm,declarative programming
+Swift,has part(s),LLVM
+Swift,designed by,Chris Lattner
+Nim,programming paradigm,object-oriented programming
+Nim,programming paradigm,imperative programming
+Nim,programming paradigm,metaprogramming
+Nim,influenced by,Oberon
+Nim,programming paradigm,functional programming
+Nim,programmed in,Nim
+Nim,influenced by,Ada
+Svelte,instance of,programming language
+Crystal,influenced by,C#
+Crystal,operating system,macOS
+Nim,different from,Nim
+Nim,programming paradigm,procedural programming
+SCM,instance of,interpreter
+Crystal,operating system,OpenBSD
+Crystal,influenced by,C
+Nim,influenced by,Object Pascal
+Nim,influenced by,Modula-3
+Crystal,operating system,Linux
+Crystal,influenced by,Python
+Nim,copyright license,MIT License
+Crystal,influenced by,Go
+Crystal,operating system,FreeBSD
+Idris,instance of,proof assistant
+Svelte,instance of,free software
+Crystal,influenced by,Rust
+Crystal,programming paradigm,object-oriented programming
+Crystal,programming paradigm,concurrent computing
+Crystal,operating system,WebAssembly
+Crystal,influenced by,Ruby
+Elvish,operating system,Microsoft Windows
+Elvish,programmed in,Go
+Svelte,instance of,compiler
+Swift,instance of,programming language
+Elvish,operating system,cross-platform
+Jim Tcl,operating system,GNU/Linux
+Svelte,instance of,web framework
+Jim Tcl,implementation of,Tcl
+Wolfram Language,instance of,interpreted language
+Swift,instance of,free software
+Svelte,instance of,JavaScript library
+Jim Tcl,instance of,programming language
+Elvish,instance of,interpreted language
+Elvish,instance of,operating system shell
+Swift,instance of,object-based language
+Elvish,instance of,programming language
+Elvish,instance of,free software
+Svelte,instance of,open-source software
+Solidity,instance of,programming language
+Elvish,instance of,high-level programming language
+Crystal,instance of,object-based language
+Nim,instance of,programming language
+Crystal,instance of,programming language
+Elvish,instance of,scripting language
