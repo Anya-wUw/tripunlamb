@@ -1,1 +1,0 @@
-{"_runtime":514,"train/global_step":1,"train/grad_norm":0.2159026861190796,"_wandb":{"runtime":514},"_step":1,"train/epoch":0.02040816326530612,"train/loss":0.0122,"train/learning_rate":2.0408163265306121e-07,"train/forget_Q_A_ROUGE":0.10204081632653061,"_timestamp":1.7520586623623345e+09}
